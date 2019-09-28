@@ -9,3 +9,4 @@ The code is not right. The right implementation is [pytorch version](https://git
 1. main.py：用来运行的
 2. config.py：参数设置
 3. TAC40数据的处理：Att-Pooling-CNN
+4. 解压TAC40.zip获得数据
