@@ -1,0 +1,739 @@
+0 5 7 14 14 the warren commission determined that lee harvey oswald fired a high powered rifle at kennedy from the sixth floor of the building where he worked on nov. 22 , 1963 .
+0 5 7 10 10 the warren commission determined that lee harvey oswald fired at kennedy from the sixth floor of what is now the dallas county administration building on nov. 22 , 1963 .
+0 11 13 20 20 the warren commission determined that on nov. 22 , 1963 , lee harvey oswald fired a high powered rifle at kennedy 's motorcade from the sixth floor of what is now the dallas county administration building , where he worked .
+0 17 19 11 15 after nearly two decades in prison for the assassination of the rev. martin luther king jr. , james earl ray says he would trade places with the hostages in lebanon .
+0 0 0 25 25 <e1> ray is being held in tennessee 's brushy mountain state prison on a 99 year sentence for the april 4 , 1968 , slaying of king .
+0 12 13 7 9 ` ` the lapd investigation into the robert f. kennedy assassination by sirhan sirhan was exhaustive , yet public concern about its conclusions remains 20 years later , ' ' eu said in a written statement released by her office .
+0 3 4 13 18 in 1969 , sirhan sirhan was sentenced to death for the assassination of new york sen. robert f. kennedy .
+0 0 2 26 26 <e1> william leonard jennings sobbed loudly as he appeared in a magistrates court in west yorkshire and was charged with killing his 3 year old son , stephen , who was last seen alive on dec. 12 , 1962 .
+0 5 5 33 33 the summary also concluded that sirhan , who is serving a life sentence at soledad prison for the killing , was sane and was not under the influence of alcohol when he shot kennedy moments after he had claimed victory in the california democratic presidential primary .
+0 1 1 3 3 although sirhan shot kennedy in full view of numerous spectators , controversy arose later about how many shots were fired and whether a second gunman was involved .
+0 3 5 10 12 in 1865 , john wilkes booth , the assassin of president abraham lincoln , was surrounded by federal troops near bowling green , va. , and killed .
+0 16 18 4 4 the police files on kennedy 's shooting could shed new light on persistent questions about whether sirhan bishara sirhan was the only gunman in the shooting .
+0 0 0 12 12 <e1> sirhan says he was the lone assassin but can 't remember shooting kennedy .
+0 7 9 13 13 the items included the .22 caliber gun sirhan bishara sirhan used to kill kennedy on june 5 , 1968 , in the hotel kitchen .
+0 15 16 23 23 however , the story did not die , and triggered years of controversy over whether sirhan sirhan , the man convicted of killing kennedy , had acted alone .
+0 4 6 0 0 <e2> kennedy 's assassin , sirhan bishara sirhan , was immediately arrested .
+0 51 53 24 27 today 's highlight in history : twenty years ago , on june 6 , 1968 , at 1 : 44 a.m. local time , sen. robert f. kennedy died at good samaritan hospital in los angeles , 25  lcb  hours after he was shot at the ambassador hotel by sirhan bishara sirhan .
+0 11 13 30 30 that same day , a grand jury in los angeles indicted sirhan bishara sirhan , a jordanian citizen , on a charge of first degree murder in the assassination of kennedy two days earlier .
+0 5 5 8 8 the warren commission determined that oswald fired at kennedy from the sixth floor of what is now the dallas county administration building .
+0 22 24 30 33 sen. edward m. kennedy says his family is disturbed by the decision to establish a museum in the dallas building from which lee harvey oswald is believed to have shot president john f. kennedy .
+0 3 5 14 18 in 1977 , james earl ray , the convicted assassin of civil rights leader dr. martin luther king jr. , was recaptured following his escape from a tennessee prison june 10 .
+0 5 6 0 1 <e2> robert kennedy was shot by sirhan sirhan and mortally wounded shortly after midnight on june 5 , 1968 , after he had addressed a crowd of supporters gathered in the ambassador hotel to celebrate his election victory of the day before .
+0 3 5 12 13 in 1981 , mark david chapman pleaded guilty to killing rock star john lennon outside lennon 's new york city apartment building the previous december .
+0 0 0 35 37 <e1> yount , who was living in coeur under the alias james marvin forsgren , was sentenced to life in prison for his conviction on first degree murder and rape charges in the 1966 slaying of pamela sue rimer , a student in his high school mathematics class in luthersberg , pa .
+0 35 38 23 25 but bowier said it was not surprising because of ` ` extremely cordial relations ' ' that existed between the newspaper and former president william tolbert , assassinated in an april 1980 coup led by gen. samuel k. doe .
+0 17 19 24 26 in 1865 , four people were hanged in washington , d.c. after being convicted of conspiring with john wilkes booth in the assassination of president abraham lincoln .
+0 4 6 11 15 ten years ago : james earl ray , convicted of assassinating dr. martin luther king jr. in 1968 , repeated his assertion at a capitol hill hearing that he did not commit the crime , saying he 'd been set up to take the blame by a mysterious man called raoul .
+0 24 25 14 14 on this date : in 1533 , the last incan king of peru , atahualpa , was murdered on the orders of spanish conqueror francisco pizarro .
+0 18 20 7 8 he developed evidence regarding the assassination of president kennedy which supported the findings of the warren commission that lee harvey oswald was the lone assassin .
+0 21 23 0 0 <e2> lennon was shot to death dec. 8 , 1980 , in the courtyard of his new york city apartment building by mark david chapman , a former beatles ' fan who was convicted of the killing and sentenced to prison for a term of 20 years to life .
+0 5 7 0 0 <e2> lennon was fatally shot by mark david chapman outside the dakota on dec. 8 , 1980.
+0 4 6 0 0 <e2> lennon was murdered by mark david chapman outside the dakota on dec. 8 , 1980 .
+0 17 19 25 28 today 's highlight in history : in 1964 , the warren commission issued a report concluding that lee harvey oswald had acted alone in assassinating president john f. kennedy .
+0 21 21 7 10 twenty five years after the assassination of president john f. kennedy , lee harvey oswald 's widow says she now believes oswald did not act alone in the killing .
+0 16 18 0 0 <e2> lennon was murdered outside his upper west side home on dec. 8 , 1980 , by mark david chapman .
+0 4 6 15 18 ten years ago : james earl ray , the convicted assassin of civil rights leader martin luther king jr. , married artist anna sandhu in a ceremony at brushy mountain penitentiary in tennessee .
+0 0 0 21 21 <e1> ray , 60 , was sentenced to 99 years in prison in 1969 when he pleaded guilty to shooting and killing king as the civil rights leader stood on a balcony of the lorraine motel in memphis .
+0 31 33 16 20 anna sandhu ray , who 10 years ago thursday wed the man convicted of killing the rev. martin luther king jr. , said on her anniversary that she plans to divorce james earl ray .
+0 9 10 3 5 in 1901 , president william mckinley 's assassin , leon czolgosz , was electrocuted .
+0 4 5 25 31 they found it when herschel grynszpan , a 17 year old jew enraged by his family 's deportation to poland , shot and mortally wounded german embassy third secretary ernst vom rath in paris on nov. 7 , 1938 .
+0 13 15 20 20 most of the work conducted by the warren commission , which concluded that lee harvey oswald acted alone in the kennedy slaying , has been opened to the public , a move that has helped researchers evaluate _ and in many cases strongly criticize _ that investigation .
+0 37 39 44 47 in a bizarre allegation , anderson said the same photo analysts also concluded that a picture of three hobos near the shooting scene taken shortly after the killing appear to show watergate conspirator e. howard hunt and james earl ray , the killer of martin luther king jr .
+0 3 5 13 15 in 1881 , charles j. guiteau went on trial for the assassination of president james garfield .
+0 29 31 36 39 the nine sentences noting the spot where dallas was settled are followed by this : ` ` on nov. 22 , 1963 , the building gained national notoriety when lee harvey oswald allegedly shot and killed president john f. kennedy from a sixth floor window as the presidential motorcade passed the site. ' '
+0 16 16 40 40 scattered among reams of fbi and secret service reports are fragments of the lonely life of oswald , a marxist who lived in obscurity and died in infamy and who the warren commission concluded was acting alone when he killed kennedy .
+0 0 0 12 12 <e1> booth also used an underground intelligence network for his escape after shooting lincoln during a performance at ford 's theatre in washington , d.c. , on april 14 , 1865 , five days after gen. robert e. lee 's surrender at appomattox , the authors contend .
+0 19 19 28 28 lee 's surrender of the army of northern virginia had virtually ended the war by that time , but booth thought he could save the south by killing lincoln , said tidwell , a retired cia officer .
+0 0 2 10 11 <e1> john wilkes booth wasn 't a shiftless actor who killed abraham lincoln out of despondency over the south 's loss in the civil war , but a confederate intelligence agent , a new book contends .
+0 0 2 20 23 <e1> lee harvey oswald bore a grudge against texas gov. john connally and may have intended to kill him instead of president john f. kennedy , according to a new book .
+0 7 9 18 18 the hearing was announced last week for james earl ray , 60 , serving 99 years for assassinating king in memphis on april 4 , 1968 .
+0 25 27 12 12 several organizations planned remembrances later today at parkland memorial hospital , where kennedy was taken after being shot , and the texas theater , where lee harvey oswald was arrested hours after the assassination .
+0 2 2 12 12 authorities say oswald opened fire from a sixth floor window there into kennedy 's motorcade .
+0 2 2 12 12 authorities say oswald opened fire from a sixth floor window there into kennedy 's motorcade .
+0 30 32 38 41 today 's highlight in history : on nov. 24 , 1963 , in a scene captured on live network television , dallas nightclub owner jack ruby shot and mortally wounded lee harvey oswald as the accused assassin of president john f. kennedy was being escorted by police to an armored truck at the dallas municipal building for transfer to the county jail .
+0 0 2 17 17 <e1> james earl ray , 60 , is serving 99 years in prison for first degree murder of king in memphis on april 4 , 1968 .
+0 0 0 8 9 <e1> oswald had been arrested in the assassination of president kennedy .
+0 0 0 11 14 <e1> oswald had been arrested two days earlier in the shooting of president john f. kennedy .
+0 0 1 34 35 <e1> john martini , 58 , and therese afdahl , 30 , were arrested after being spotted by police at a fort lee motel wednesday and were charged in the slaying of 58 year old irving flax .
+0 18 20 3 4 a memorial to president kennedy on the sixth floor of the former texas schoolbook depository , from which lee harvey oswald allegedly fired the shots that killed him , will open on presidents day , organizers say.
+0 2 2 23 29 leroy ivy of oxford and his brother john henry ivy of tupelo were indicted this month on a charge of conspiracy to murder lee county circuit judge thomas gardner iii.
+0 0 1 10 13 <e1> sirhan sirhan , in his first television interview , called sen. robert f. kennedy his hero , but said he killed the presidential candidate more than 20 years ago because he felt betrayed by kennedy 's support for israel .
+0 23 25 35 38 prayers and tears marked the opening monday of a museum on the sixth floor of the old texas school book depository from which lee harvard oswald is believed to have fired the shots that killed president john f. kennedy .
+0 24 26 33 34 many of the first visitors to a new museum at the former texas school book depository went directly to the sixth floor spot where lee harvey oswald allegedly fired the shots that killed president kennedy .
+0 21 23 26 27 a long , long time. ' ' _ dallas resident danny veno , on his visit to the spot from which lee harvey oswald allegedly shot president kennedy , which has been turned into a museum .
+0 28 28 15 18 today 's highlight in history : on the ides of march , 44 b.c. , roman emperor julius caesar was assassinated by a group of nobles that included brutus and cassius .
+0 19 20 6 7 in 1882 , the notorious outlaw jesse james was shot to death in st. joseph , mo. , by robert ford , a member of his own gang .
+0 20 22 0 3 <e2> martin luther king iii , a son of the slain civil rights leader , said the execution of king assassin james earl ray ` ` would not bring my father back. ' '
+0 3 5 10 12 in 1865 , john wilkes booth , the assassin of president abraham lincoln , was surrounded by federal troops near bowling green , va. , and killed .
+0 12 12 22 25 during his six year tenure as los angeles county district attorney , sirhan was tried and convicted for the 1968 assassination of u.s. sen. robert kennedy .
+0 0 0 13 13 <e1> sirhan , a jerusalem born christian arab , was sentenced to death for kennedy 's murder but was spared the san quentin gas chamber after california 's death penalty law was overturned in 1972 by the state supreme court .
+0 0 0 11 11 <e1> sirhan , a christian arab , was sentenced to death for kennedy 's murder but was spared from gas chamber after california 's death penalty law was overturned in 1972 .
+0 7 9 0 3 <e2> sen. robert f. kennedy 's assassin , sirhan b. sirhan , has an unpredictable capacity for violence and remains a threat to society , a state prison board ruled in denying him parole for the 10th time .
+0 0 0 18 18 <e1> oswald was arrested during a showing of ` ` war is hell ' ' 80 minutes after shooting kennedy from the sixth floor of the book depository on nov. 22 , 1963 .
+0 4 6 0 0 <e2> kennedy 's assassin , sirhan bishara sirhan , was immediately arrested .
+0 4 6 0 0 <e2> kennedy 's assassin , sirhan bishara sirhan , was immediately arrested .
+0 10 12 22 26 in 1968 , authorities announced the capture in london of james earl ray , suspected of the assassination of civil rights leader dr. martin luther king jr .
+0 3 5 12 13 in 1981 , mark david chapman pleaded guilty to killing rock star john lennon outside lennon 's new york city apartment building the previous december .
+0 10 12 3 6 in 1881 , president james a. garfield was shot by charles j. guiteau , a disappointed office seeker , at the washington railroad station .
+0 0 2 15 17 <e1> mark david chapman , sentenced to 20 years to life for the murder of former beatle john lennon , staged a hunger strike to call attention to starving children .
+0 15 16 6 8 in 1793 , french revolutionary writer jean paul marat was murdered in his bath by charlotte corday .
+0 14 15 8 10 george shibley , a defense attorney who represented robert f. kennedy 's assassin , sirhan sirhan , and helped defend 12 hispanics in the ` ` zoot suit ' ' murder case of the 1940s , has died of cardiac arrest at 79 .
+0 3 5 10 14 in 1978 , james earl ray , convicted assassin of dr. martin luther king jr. , told a capitol hill hearing he did not commit the crime , saying he 'd been set up by a mysterious man called ` ` raoul. ' '
+0 24 25 14 14 on this date : in 1533 , the last incan king of peru , atahualpa , was murdered on the orders of spanish conqueror francisco pizarro .
+0 11 13 19 22 in 1964 , the warren commission issued a report concluding that lee harvey oswald had acted alone in assassinating president john f. kennedy in november 1963 .
+0 0 2 5 5 <e1> mark david chapman fatally shot lennon nine years ago in new york .
+0 19 21 27 28 the federal appeals court previously overturned a key provision of arizona 's death penalty statute in the case of john harvey adamson , convicted of murdering reporter don bolles .
+0 0 2 17 20 <e1> james earl ray , who is serving a 99 year prison sentence for the assassination of the rev. martin luther king , lost a supreme court appeal today .
+0 0 0 21 21 <e1> ray , 61 , will not be eligible for parole until 1998 for the april 4 , 1968 , killing of king in memphis , tenn .
+0 15 16 21 23 in 1963 , in a scene captured on live network television , dallas nightclub owner jack ruby shot and mortally wounded lee harvey oswald , the accused assassin of president kennedy .
+0 30 32 38 38 until president 's day of this year , the public could not enter the sixth floor of the old school book depository in downtown dallas , where it 's believed lee harvey oswald fired the shots that killed kennedy .
+0 17 18 21 21 films include footage of kennedy 's motorcade rolling through dealey plaza and nbc 's live broadcast of jack ruby fatally shooting oswald in the basement of the dallas police department .
+0 6 6 8 8 the warren commission later concluded that oswald shot kennedy from a sniper 's perch in the texas schoolbook depository building on the edge of downtown dallas .
+0 21 21 23 23 surratt , a young confederate spy who had conspired with john wilkes booth to abduct lincoln in 1864 , fled after booth shot lincoln on april 14 , 1865 .
+0 6 8 24 25 in a sixth new indictment , antonio vasquez ochoa faces two counts of committing violent crimes in aid of racketeering for the slayings of john walker and alberto radelat on jan. 30 , 1985 , in guadalajara .
+0 23 25 15 15 on april 14 , while attending a play at the ford theatre in washington , lincoln was shot in the head by actor john wilkes booth , who cried out ` ` sic semper tyranus ' '  lrb  ` ` thus ever to tyrants , ' ' the motto of virginia  rrb  .
+0 0 2 15 18 <e1> james earl ray , serving a 99 year prison sentence for killing civil rights leader martin luther king jr. , has filed for divorce from his wife of 12 years .
+0 2 3 43 44 in sentencing johnny campbell and alicia abraham , circuit judge michael b. getty said if he had let emotions dictate his actions , the two would have received the death penalty for ` ` the vicious , brutally sadistic torture and murder of lattie mcgee. ' '
+0 3 5 20 23 in 1969 , james earl ray pleaded guilty in memphis , tenn. , to the assassination of civil rights leader martin luther king jr.
+0 13 15 21 22 in 1964 , a jury in dallas found jack ruby guilty of murdering lee harvey oswald , the accused assassin of president kennedy.
+0 8 9 13 15 in 1964 , a jury in dallas found jack ruby guilty of murdering lee harvey oswald , the accused assassin of president kennedy.
+0 28 28 15 18 today 's highlight in history : on the ides of march , 44 b.c. , roman emperor julius caesar was assassinated by a group of nobles that included brutus and cassius.
+0 20 22 11 11 this april 14 is the 125th anniversary of the night when lincoln , the 16th president , was assassinated by john wilkes booth in the presidential box at ford 's theatre .
+0 19 20 6 7 in 1882 , the notorious outlaw jesse james was shot to death in st. joseph , mo. , by robert ford , a member of his own gang .
+0 20 22 12 13 today 's highlight in history : on april 14 , 1865 , president lincoln was shot and mortally wounded by john wilkes booth while attending the comedy ` ` our american cousin ' ' at ford 's theater in washington .
+0 3 4 9 13 in 1969 , sirhan sirhan was convicted of assassinating u.s. sen. robert f. kennedy .
+0 2 4 6 6 but actor john wilkes booth shot lincoln during the third act , mortally wounding him .
+0 11 13 7 7 two days later , perry operated on kennedy 's assassin , lee harvey oswald , who had just been shot by jack ruby .
+0 12 12 17 17 the warren commission , established to investigate the assassination , concluded that oswald acted alone in killing kennedy .
+0 0 2 6 6 <e1> sirhan b. sirhan was convicted of kennedy 's killing and is serving a life sentence .
+0 10 12 8 8 grant b. cooper , an attorney who defended kennedy assassin sirhan b. sirhan , has died at age 87.
+0 4 6 11 14 in south korea , kim jae kyu , the assassin of president park chung hee , was executed .
+0 11 12 25 28 one of the most notorious to die in the chair was giuseppe zangara , executed in 1933 for the shooting death that same year of chicago mayor anton cermak .
+0 18 20 25 26 in 1865 , four people were hanged in washington , d.c. , after being convicted of conspiring with john wilkes booth in the assassination of president lincoln .
+0 0 2 6 9 <e1> sirhan b. sirhan , who shot sen. robert f. kennedy to death 22 years ago , was denied parole tuesday for the 13th time .
+0 13 15 20 22 soledad , calif. _ a state parole board refused to release from prison sirhan b. sirhan , convicted of killing robert f. kennedy in 1968 .
+0 10 10 0 0 <e2> kennedy had just won california 's democratic presidential primary when sirhan shot him in los angeles on june 5 , 1968 .
+0 10 12 20 21 the federal appeals court threw out the death sentence of john harvey adamson , convicted of murdering phoenix newspaper reporter don bolles in 1976 .
+0 15 17 24 25 by a 4 3 vote , the justices refused to reinstate the death sentence of john harvey adamson , convicted of murdering newspaper reporter don bolles in 1976 .
+0 5 6 14 16 belli 's clients have included jack ruby , who killed john f. kennedy assassin lee harvey oswald , and jim and tammy bakker .
+0 0 0 3 3 <e1> ruby fatally shot oswald two days after kennedy was assassinated .
+0 5 7 17 17 the warren commission concluded that lee harvey oswald , acting alone , fired the shots that killed kennedy and wounded texas gov. john connally .
+0 5 5 15 15 the warren commission concluded that oswald , acting alone , fired the shots that killed kennedy and wounded john connally , then the texas governor .
+0 0 0 3 3 <e1> ruby fatally shot oswald two days after kennedy was assassinated .
+0 5 7 17 17 the warren commission concluded that lee harvey oswald , acting alone , fired the shots that killed kennedy and wounded john connally , then the texas governor , on nov. 22 , 1963 in dallas .
+0 3 5 10 14 in 1978 , james earl ray , convicted assassin of dr. martin luther king jr. , told a capitol hill hearing he did not commit the crime , saying he 'd been set up by a mysterious man called ` ` raoul. ' '
+0 0 0 16 16 <e1> oswald was captured in the theater nov. 22 , 1963 , only a few hours after kennedy was shot to death on a dallas street .
+0 4 6 13 16 the movie theater where lee harvey oswald was captured following the assassination of president john f. kennedy has been saved from demolition .
+0 23 25 5 8 in 1979 , south korean president park chung hee was shot to death by the head of the korean central intelligence agency , kim jae kyu .
+0 3 3 15 18 dallas police arrested oswald there on nov. 22 , 1963 , after the assassination of president john f. kennedy .
+0 26 27 18 21 bosnia 's capital , sarajevo , is best known as the site of the assassination in 1914 of austrian archduke franz ferdinand by young bosnian nationalist gavrilo princip , which was the spark that ignited world war i. no single party appeared likely to win a clear majority in bosnia 's 240 seat bicameral parliament .
+0 21 23 9 10 hundreds of people spent part of thanksgiving day remembering president kennedy with a visit to the downtown building where investigators say lee harvey oswald fired the shots that killed him 27 years ago .
+0 0 0 10 10 <e1> chapman said he suffered years of mental dissolution before killing lennon .
+0 0 0 9 9 <e1> chapman said he first got the idea for killing lennon when he came across a beatles picture book in a honolulu library .
+0 0 2 6 7 <e1> mark david chapman , who shot john lennon to death 10 years ago , wants the world to know he 's sorry .
+0 0 2 11 12 <e1> mark david chapman says that he feels great remorse for killing john lennon but that the slaying doesn 't make him an evil person.
+0 21 21 8 9 before i became ` the man who murdered john lennon , ' i was basically a decent person , ' ' chapman said from his isolation cell at attica state prison , where he is serving 20 years to life.
+0 32 34 0 0 <e2> lennon and his wife were returning to their apartment in new york 's dakota building from a recording session on dec. 8 , 1980 , when he was shot to death by mark david chapman , an obsessed fan who had gotten his autograph only hours before .
+0 37 39 31 31 lennon and his wife , yoko ono , were returning to their apartment in new york 's dakota apartment building after a recording session on dec. 8 , 1980 , when lennon was shot to death by mark david chapman , a deranged fan to whom lennon had given his autograph only hours before .
+0 11 13 0 0 <e2> lennon was returning home with ono after a recording session when mark david chapman , a fan who received the ex beatle 's autograph just hours before , shot and killed him .
+0 0 2 11 11 <e1> darci alves pereira stunned a packed courtroom by admitting he shot mendes on dec. 22 , 1988 , shortly after dark outside his home in this remote amazon town near bolivia 's border , 2 , 650 miles northwest of rio de janeiro .
+0 5 8 29 29 the seven member jury decided darly alves da silva planned the dec. 22 , 1988 , slaying and that his son darci alves pereira fired the shotgun that killed mendes .
+0 0 3 45 48 <e1> kleber elias gia bustamante , accused by the police of being a member of the " red sun " central committee , has been living clandestinely since his escape from the garcia moreno prison , where he was held accused of assassinating the industrialist , jose antonio briz lopez.
+0 33 35 43 45 lrb  text  rrb  in an interview with interfax the chief of belarus 's security committee , eduard shirkovskiy , has dismissed rumors that the copies of the files relating to lee harvey oswald , who was charged with having assassinated president john kennedy , will be handed to president bill clinton during his visit to minsk .
+0 22 24 39 40 it is known that president boris yeltsin , in his meeting with bill clinton , gave him certain official documents on the lee harvey oswald case , who as you know was officially recognized as the man who killed president kennedy .
+0 9 10 22 24 indeed , it was on june 28 1914 that gavrilo princip , a 20 year old serb revolutionary student , shot dead archduke franz ferdinand of austria hungary in sarajevo .
+0 0 2 6 7 <e1> john wilkes booth , who assassinated president lincoln , was an actor .
+0 1 3 7 8 even lee harvey oswald , who shot president kennedy , seems after manifold investigations to have been a loner .
+0 7 9 14 16 the jury in a television trial found james earl ray not guilty of murdering martin luther king after a memphis hearing screened on the 25th anniversary of the assassination .
+0 13 15 8 9 the warren commission 's central conclusion , that mr kennedy was killed by lee harvey oswald acting alone , has been backed up by most serious inquiries since then , with the exception of a 1979 house of representatives select committee chaired by mr louis stokes , an ohio democrat , which found that a second gunman probably fired at mr kennedy and missed .
+0 15 16 18 19 andric wrote about the moslems organising gangs to hunt down serbs after the young revolutionary gavrilo princip assassinated archduke ferdinand in sarajevo in 1914   one of the events which triggered the first world war .
+0 21 23 10 13 on monday , the nation will observe the birthday of martin luther king jr. , who was cut down by assassin james earl ray in 1968 .
+0 23 25 16 19 today superior court judge william pounders likened buckey 's jail exit to the televised slaying of president john f. kennedy 's killer , lee harvey oswald , by dallas nightclub owner jack ruby in 1963 .
+0 19 21 15 15 after the assassination of robert f. kennedy , davis appeared in court to testify that kennedy 's assassin , sirhan b. sirhan , was competent to stand trial .
+0 6 8 16 17 the sandinistas renamed the stadium after rigoberto lopez perez , a tailor and poet who assassinated somoza garcia and was killed in the process .
+0 3 5 13 15 the patient was john wilkes booth , who hours earlier had fatally shot president abraham lincoln at ford 's theater in washington , d.c. , about 30 miles away .
+0 0 0 9 9 <e1> booth sneaked into the president 's box and shot lincoln in the back of the head .
+0 1 1 6 6 only booth was successful , shooting lincoln at 10 : 15 p.m. on april 14 .
+0 5 5 19 19 it is also known that booth wore false whiskers when he arrived at the doctor 's house after shooting lincoln , and it is possible that mudd didn 't recognize booth .
+0 7 9 13 13 " this is the garrett place where john wilkes booth , assassin of lincoln , was cornered by union soldiers and killed april 26 , 1865 .
+0 0 2 6 9 <e1> sirhan b. sirhan , who shot sen. robert f. kennedy to death 22 years ago , was denied freedom for the 13th time by a parole board that disregarded a middle eastern petition pleading for his release .
+0 14 16 26 27 in a brief order , the justices refused to reinstate the death sentence of john harvey adamson , who was convicted of murdering phoenix newspaper reporter don bolles in 1976 .
+0 6 7 14 15 now the groom is dead and james rovida has admitted murdering son in law robert brock .
+0 0 3 45 46 <e1> james joseph rovida jr. , a 55 year old los alamitos truck driver whose life revolved around his wife , his five grown children and his grandchildren , was convicted last month of first degree murder in the death of cathy brock 's husband , robert brock .
+0 12 13 6 8 when he was called to examine robert f. kennedy 's assassin , sirhan sirhan , a jordanian residing in the united states , markman refused .
+0 18 19 11 14 perhaps diamond 's best known testimony came during the trial of sen. robert f. kennedy 's assassin , sirhan sirhan .
+0 2 2 10 10 he said sirhan had placed himself in a trance during kennedy 's 1968 slaying and should be judged outside the parameters used for " normal " murderers .
+0 0 0 4 4 <e1> sirhan was convicted of kennedy 's killing and is serving a life sentence .
+0 4 5 20 21 the latino rangers include ray martinez , who as an austin policeman shot and killed university of texas tower sniper charles whitman in 1966 .
+0 27 28 39 41 photo , dueling over a gunit is a scene seared into the memories of americans old enough to have watched it that november day in 1963 : jack ruby firing his .38 caliber colt cobra , above , at lee harvey oswald , the man who had assassinated president john f. kennedy two days earlier.
+0 24 25 29 31 a dallas probate judge gave the internal revenue service until jan. 15 to prove its claim to proceeds from the sale of the gun jack ruby used to kill lee harvey oswald after president john f. kennedy was assassinated .
+0 0 2 11 11 <e1> darci alves pereira stunned a packed courtroom by admitting he shot mendes on dec. 22 , 1988 , shortly after dark outside his home in this remote amazon town near the bolivian border , 2 , 650 miles northwest of rio de janeiro .
+0 15 17 24 27 historic movie house may close : the texas theater , the dallas movie house where lee harvey oswald was arrested after the assassination of president john f. kennedy , may be closing soon .
+0 26 28 34 34 it 's called the sixth floor , after the location    the sixth floor of the old texas school book depository , from which lee harvey oswald fired the shots that killed kennedy .
+0 22 23 25 25 another segment shows the famous sequence of lyndon b. johnson being sworn in as president ; still another the television footage of jack ruby shooting oswald .
+0 22 22 29 29 stone said garrison , currently an appeals court judge , will portray chief justice earl warren , whose warren commission report declared oswald the lone assassin 10 months after kennedy was killed in dallas on nov. 22 , 1963.
+0 4 6 9 10 the building from which lee harvey oswald allegedly shot president kennedy now contains county offices and , on the sixth floor , a museum with exhibits about the assassination ;
+0 19 21 28 32 besides mccord , security chief of president nixon 's 1972 campaign , mr. fensterwald 's big name clients included james earl ray , the convicted assassin of the rev. martin luther king jr. ;
+0 34 35 22 25 almost 23 years ago , it was barry who jumped out of the crowd at the ambassador hotel in los angeles when sen. robert f. kennedy was shot and tackled kennedy 's assassin , sirhan sirhan .
+0 10 10 13 14 " we hope to dispel the different myths about why weiss allegedly killed huey long , when weiss was on the threshold of beginning a very exciting life , " johnston said wednesday from washington. ;
+0 4 6 0 0 <e2> king was shot by james earl ray on april 4 , 1968 , as he stood on the balcony outside room 306 at the motel .
+0 0 0 15 16 <e1> lehi , also known as the stern gang , assassinated the british colonial minister , lord moyne , and the swedish u.n. mediator , count folke bernadotte. ;
+0 8 10 19 21 a placerville jury wednesday convicted highway 50 sniper kenneth earl millikan of killing bay area rapid transit district employee peter j. martinelli , the son in law of bart director nello bianco. ;
+0 26 28 21 21 in 1963 , the year he joined the herald tribune , he was riding in the motorcade with president kennedy when kennedy was fatally shot by lee harvey oswald in dallas. ;
+0 11 11 17 17 author jim moore was invited to argue his viewpoint : that oswald , acting alone , killed kennedy. ;
+0 0 2 9 9 <e1> lee harvey oswald , the only official suspect in kennedy 's assassination , is arrested and taken away in handcuffs ;
+0 67 68 74 75 among the assassins    accused , convicted or would be    are jace alexander as lee harvey oswald , victor garber as john wilkes booth , debra monk as sara jane moore , greg germann as john hinckley , annie golden as lynette " squeaky " fromme  lrb  who tried to kill president ford  rrb  and terrence mann as leon czolgosz  lrb  who assassinated president mckinley  rrb  .
+0 0 2 7 8 <e1> mark david chapman , convicted of killing john lennon ; and r. foster winans , a former wall street journal reporter convicted of insider trading. ;
+0 8 10 16 16 david belin said stone deliberately overlooks evidence that lee harvey oswald acted alone when he killed kennedy and a dallas police officer .
+0 24 26 35 36 the $40 million , three hour film centers on the conspiracy theories of former new orleans district attorney jim garrison , who believed that lee harvey oswald did not act alone in the slaying of president kennedy and was , in fact , a patsy for the military , the central intelligence agency and corporate defense contractors .
+0 40 42 19 19 nor is it mentioned that this conclusion is confirmed by ballistic evidence that shows that the bullet that struck kennedy 's head and the bullet that passed through his neck and struck then texas gov. john connally were fired from lee harvey oswald 's rifle found at the texas school book depository building. ;
+0 42 42 49 50 the viewers of " jfk " and " the men who killed kennedy " never learn about these facts , nor do they ever learn about all of the other massive body of evidence that conclusively proves beyond a reasonable doubt that oswald was the lone gunman who killed president kennedy and officer tippit and that there was no coverup by earl warren or by the warren commission. ;
+0 0 0 2 2 <e1> ruby shot oswald to death with the .38 caliber colt cobra revolver in the basement of dallas city jail on nov. 24 , 1963 , two days after president kennedy was assassinated .
+0 30 32 35 35 ciacelli 's latest headway has been with the dallas county historical association , which he has spoken to about taking over a floor of the book depository , from where lee harvey oswald supposedly shot kennedy .
+0 7 9 12 12 the committee reported in july 1979 that lee harvey oswald had shot kennedy and that neither the soviet union nor cuba nor any u.s. government agency was involved in the killing. ;
+0 17 17 30 31 but now the gang , led by booth , turns into team mephistopheles , urging a sullen oswald to follow their example and earn his place in history by killing jack kennedy .
+0 26 28 35 36 not content with that major error , the journal editorial illustrated a lack of understanding of the overwhelming evidence in the warren commission report proving that lee harvey oswald was the lone gunman who killed president kennedy and who 45 minutes later killed dallas police officer j.d. tippit.
+1 15 15 20 21 dole is at an organizational disadvantage in the south but has had his wife , elizabeth , a native of north carolina , working the region for him .
+1 5 6 13 15 in 1846 , ` ` buffalo bill ' ' cody was born near davenport , iowa.
+1 4 5 9 11 in 1904 , bandleader jimmy dorsey was born in shenandoah , penn .
+1 17 17 7 8 dole had pinned his southern hopes on north carolina , the home state of his wife , elizabeth. .
+1 19 19 9 10 dole had hoped to pull out a win in north carolina , the home state of his wife , elizabeth .
+1 24 25 31 33 dole strategists looked on north carolina as one of their best southern prospects _ largely because the candidate 's wife , former transportation secretary elizabeth dole , is a native of salisbury , n.c. polls published over the weekend showed dole , who trailed by as much as 15 percentage points two weeks ago , had pulled even with bush .
+1 0 1 12 13 <e1> jesse jackson easily won the democratic precinct caucuses saturday in his native south carolina , while sen. bob dole went on illinois television for a half hour plea for republican votes in a state where he said he is the underdog .
+1 0 1 9 10 <e1> jesse jackson said sunday that winning in his native south carolina may give him the momentum in his adopted home state to upset illinois sen. paul simon in the primary here on tuesday.
+1 0 1 12 13 <e1> jesse jackson on sunday was touting his big win in his native south carolina , while officials struggled to count the final ballots after a record turnout at democratic caucuses.
+1 4 5 16 17 columbia , s.c. _ jesse jackson on sunday was touting his big win in his native south carolina , while officials struggled to count the final ballots after a record turnout at democratic caucuses.
+1 2 3 11 12 chicago _ jesse jackson said sunday that winning in his native south carolina may give him the momentum in his adopted home state to upset illinois sen. paul simon in the primary here on tuesday.
+1 0 1 12 13 <e1> jesse jackson made an impressive showing in democratic caucuses in his native south carolina over the weekend and now takes aim at tuesday 's primary in his adopted illinois .
+1 0 2 6 6 <e1> frank b. colton , born in poland , who received patents for oral contraceptives in 1954 and 1955.
+1 0 2 6 8 <e1> louis w. parker , born in budapest , hungary , who is credited with developing the television receiver.
+1 0 1 6 8 <e1> an wang , a native of shanghai , china , who developed the magnetic pulse controlling device , the principle on which computer memory operates .
+1 11 13 18 21 in 1822 , the 18th president of the united states , ulysses s. grant , was born in point pleasant , ohio .
+1 15 16 21 24 on this date : in 1758 , the fifth president of the united states , james monroe , was born in westmoreland county , va .
+1 11 12 3 5 born poor in greenville , s.c. , 46 years ago , jesse jackson has capitalized on his role as the nation 's most prominent black leader to maintain a comfortable lifestyle and accumulate sizable wealth _ all without holding elected office or drawing a regular paycheck .
+1 15 16 21 21 the hall has been adept at publicity , organizing high profile north dakota appearances by miss dickinson _ a native of kulm , south of jamestown _
+1 23 24 16 16 hundreds of children and adults sporting cowboy boots and hats turned out wednesday to watch as winterset 's busiest street was named for john wayne , the community 's most famous native son .
+1 16 17 23 23 writer elmore  lrb  dutch  rrb  leonard lives in suburban birmingham and actor tom selleck _ who was born in detroit _ lives in southern california.
+1 4 5 9 11 in 1905 , actor henry fonda was born in grand island ,neb.
+1 9 11 16 18 in 1911 , the 38th u.s. vice president , hubert h. humphrey , was born in wallace , s.d. in 1929 , aviator charles lindbergh married anne spencer morrow in englewood , n.j. in 1935 , the supreme court struck down the national industrial recovery act .
+1 5 6 10 12 in 1801 , mormon leader brigham young was born in whitingham , vt .
+1 2 3 8 8 cbs newsman harry reasoner is returning to his iowa hometown to get married saturday .
+1 38 39 31 31 martin liked jimbob for its ` ` basic down home appeal , ' ' and thought ` ` anyone named rogers has always been able to get elected to anything in oklahoma , ' ' where the humorist will rogers was born .
+1 5 7 11 13 in 1817 , naturalist author henry david thoreau was born in concord , mass .
+1 0 1 17 20 <e1> annie oakley , also known as little miss sure shot , was born phoebe ann moses in willowdell , darke county , in 1860 .
+1 5 7 13 13 other winners are : _ actress helen hayes , 87 , born in washington , who first appeared on stage at the age of 5 , made her new york debut in 1909 and has played in works of shakespeare , tennessee williams and eugene o'neill during her long career as a stage and movie actress.
+1 7 8 14 17 photographer , author , filmmaker and composer gordon parks , 76 , born in fort scott , kan. , who was on the photographic staff of life magazine for 19 years before branching out into other activities.
+1 3 5 18 21 in 1874 , herbert clark hoover , the 31st president of the united states , was born in west branch , iowa .
+1 7 8 21 24 on this date : in 1833 , benjamin harrison , the 23rd president of the united states , was born in north bend , ohio .
+1 5 6 13 15 in 1936 , rock legend buddy holly was born charles hardin holley in lubbock , texas .
+1 2 3 16 16 it stars jessica lange , his live in lover , and was shot entirely in northern minnesota , where she was born and grew up .
+1 5 6 10 12 in 1913 , olympic legend jesse owens was born in danville , ala.
+1 4 5 9 10 in 1898 , composer george gershwin was born in new york .
+1 0 0 3 4 <e1> springsteen , a new jersey native , was clearly the favorite , as calls for ` ` bruce ' ' drowned out the audio from an animated video illustrating the tenets of the universal declaration of human rights .
+1 11 13 18 20 in 1822 , the 19th president of the united states , rutherford b. hayes , was born in delaware , ohio .
+1 1 1 7 7 both bush and dukakis were born in massachusetts ' ` ` county of presidents ' ' _ norfolk county _ the one that already has given three of its natives to the nation : john adams , john quincy adams , and john fitzgerald kennedy .
+1 7 8 25 27 one year ago : senate minority leader bob dole formally announced his bid for the republican presidential nomination during a visit to his hometown of russell , kan .
+1 32 33 36 36 ` ` when you 're vice president , you don 't stand on your own , ' ' said bruce stewart , superintendent of the martin van buren national historic site in van buren 's native kinderhook , 130 miles north of new york city .
+1 1 2 4 6 born john deutschendorf in roswell , n.m. , and raised in oklahoma , arizona and texas as an air force brat , denver moved to los angeles to be a folk musician and wrote the mega hit ` ` leavin ' on a jet plane ' ' in 1969 .
+1 0 0 6 7 <e1> atwater , 37 , is a south carolina native who earlier served as an aide to president reagan and also worked for sen. strom thurmond of south carolina .
+1 7 8 21 24 on this date : in 1784 , zachary taylor , the 12th president of the united states , was born in orange county , virginia .
+1 3 5 17 19 in 1805 , joseph smith jr. , the founder of the mormon church , was born in sharon , vt .
+1 11 13 18 20 in 1856 , the 28th president of the united states , thomas woodrow wilson , was born in staunton , va .
+1 4 5 9 9 in 1752 , flagmaker betsy ross was born in philadelphia .
+1 11 12 17 19 in 1800 , the 13th president of the united states , millard fillmore , was born in summerhill , n.y. in 1927 , commercial transatlantic telephone service was inaugurated between new york and london .
+1 16 17 21 23 today 's highlight in history : on jan. 8 , 1935 , rock 'n ' legend elvis presley was born in tupelo , miss .
+1 30 31 25 26 ` ` they plan to resubmit their proposal , and for the moment have pledged that the st. louis street side be dedicated to native new orleans musicians such as fats domino , ' ' said spokeswoman barbara hutson in a news release friday .
+1 23 24 15 15 the names of hippopotamus twins born at the city zoo will be chosen by another memphis native and mother of twins , actress cybill shepherd , zoo officials said sunday .
+1 15 16 21 23 on this date : in 1843 , the 25th president of the united states , william mckinley , was born in niles , ohio .
+1 21 21 25 25 although she has tried to realize that dream through a buddy holly scholarship fund , preferably at texas tech university in holly 's hometown of lubbock , or through a festival there , each attempt has failed .
+1 10 10 6 8 meanwhile , the historical society in beaumont , texas , richardson 's hometown , plans to raise two statues on feb. 3 _ one of buddy holly , richardson and valens , and a second of the big bopper alone .
+1 5 6 10 10 in 1895 , baseball legend babe ruth was born in baltimore .
+1 4 6 10 12 in 1847 , inventor thomas alva edison was born in milan , ohio .
+1 12 13 32 35 today 's highlight in history : on feb. 12 , 1809 , abraham lincoln , 16th president of the united states , was born in a log cabin in what is now larue county , kentucky .
+1 8 9 15 17 scheduled to be inducted on sunday are : john deere , born in 1804 in rutland , vt. , developer of the moldboard plow .
+1 5 6 13 15 in 1846 , ` ` buffalo bill ' ' cody was born near davenport , iowa .
+1 6 7 10 10 the names were picked by actress cybill shepherd , a memphis native and mother of twins herself , from more than 2 , 300 suggestions entered in a contest .
+1 5 7 16 17 one year ago : the rev. jesse jackson won the democratic precinct caucuses in his native south carolina .
+1 11 12 17 19 in 1767 , the seventh president of the united states , andrew jackson , was born in waxhaw , s.c.
+1 3 4 29 31 in 1783 , washington irving , author of ` ` rip van winkle ' ' and ` ` the legend of sleepy hollow , ' ' was born in new york city .
+1 15 16 21 23 on this date : in 1758 , the fifth president of the united states , james monroe , was born in westmoreland county ,virginia .
+1 4 5 17 18 here are highlights of lucille ball 's career : 1911 _ born aug. 6 , 1911 in jamestown n.y. , the daughter of an electrician and concert pianist desiree ball. 1926
+1 9 10 6 7 as a young girl in western new york , lucille ball hawked hot dogs and popcorn at an amusement park as she dreamed of starring in movies , hometown friends recalled .
+1 4 6 11 13 ten years ago : sen. bob dole visited his hometown of russell , kan. , to announce his bid for the 1980 republican presidential nomination .
+1 4 5 9 12 in 1905 , actor henry fonda was born in grand island , neb .
+1 5 6 10 12 in 1801 , mormon leader brigham young was born in whitingham , vt .
+1 0 2 15 18 <e1> herbert clark hoover , the 31st president of the united states , was born in west branch , iowa , in 1874 .
+1 5 6 22 24 in 1880 , author lecturer helen keller , who lived most of her life without sight or hearing , was born in tuscumbia , ala .
+1 11 12 17 19 in 1872 , the 30th president of the united states , calvin coolidge , was born in plymouth , vt .
+1 5 7 11 13 in 1817 , naturalist author henry david thoreau was born in concord , mass .
+1 3 4 15 18 in 1854 , george eastman , inventor of the kodak camera , was born in waterville , n. y.
+1 0 1 5 6 <e1> mrs. vogt was born in akron ,ohio , when ulysses s. grant was president , and spent much of her life there .
+1 7 8 21 24 on this date : in 1833 , benjamin harrison , the 23rd president of the united states , was born in north bend , ohio .
+1 6 8 12 15 in 1873 , radio electronics pioneer dr. lee deforest was born in council bluffs , iowa .
+1 5 6 13 15 in 1936 , rock legend buddy holly was born charles hardin holley in lubbock , texas .
+1 5 6 10 12 in 1913 , olympic legend jesse owens was born in danville , ala.
+1 11 13 18 20 in 1822 , the 19th president of the united states , rutherford b. hayes , was born in delaware , ohio .
+1 3 5 10 11 however , the rev. jesse jackson , a native of south carolina , joined critics of fema 's effort .
+1 11 13 18 20 in 1890 , the 34th president of the united states , dwight d. eisenhower , was born in denison , texas .
+1 4 5 9 11 in 1879 , humorist will rogers was born in oologah , okla .
+1 11 12 17 19 in 1831 , the 20th president of the united states , james garfield , was born in orange , ohio .
+1 16 18 23 25 in 1782 , the first president who was a native citizen of the united states , martin van buren , was born in kinderhook , n.y. in 1791 , composer wolfgang amadeus mozart died in vienna , austria , at the age of 35 .
+1 7 8 12 12 on this date : in 1735 , paul revere was born in boston .
+1 4 5 9 9 in 1752 , flagmaker betsy ross was born in philadelphia .
+1 17 18 22 24 today 's highlight in history : on jan. 8 , 1935 , rock 'n ' roll legend elvis presley was born in tupelo , miss .
+1 4 6 10 10 in 1809 , author edgar allan poe was born in boston .
+1 8 9 21 21 for extra credit , shutes noted singer songwriter bob dylan , who gets a mention in the song , was born duluth and reared in hibbing .
+1 3 4 16 18 in 1767 , andrew jackson , seventh president of the united states , was born in waxhaw , s.c.
+1 3 4 16 19 in 1751 , james madison , fourth president of the united states , was born in port conway , va.
+1 3 4 8 10 1911 , playwright tennessee williams was born in columbus , miss.
+1 17 18 21 21 teen agers , most of whom were born after the release of the 1973 film directed by george lucas , a modesto native , said they cruise popular mchenry avenue in this central california city for the same reasons as their parents : to show off their cars and meet dates .
+1 12 13 10 10 the june celebration of cruising , started two years after modesto native george lucas ' film was released in 1973 , draws up to 100 , 000 people in 30 , 000 cars .
+1 15 16 21 24 on this date : in 1758 , the fifth president of the united states , james monroe , was born in westmoreland county , va .
+1 9 10 14 16 ralph david abernathy : march 11 , 1926 : david abernathy is born in linden , ala. , grandson of slaves and 10th of 12 children of william and louiverny abernathy .
+1 5 6 10 12 in 1801 , mormon leader brigham young was born in whitingham , vt .
+1 2 3 0 0 <e2> illinois born charlton heston was a 27 year old actor from broadway and television when he arrived in hollywood for a five picture contract with hal wallis .
+1 18 19 16 16 following the plot of the 1973 film ` ` american graffiti , ' ' directed by modesto native george lucas , high school seniors 15 years ago established graffiti night on the first saturday after graduation .
+1 4 5 10 12 in 1818 , suffragist lucy stone was born in west brookfield , mass .
+1 3 5 18 21 in 1874 , herbert clark hoover , the 31st president of the united states , was born in west branch , iowa .
+1 7 8 21 24 on this date : in 1833 , benjamin harrison , the 23rd president of the united states , was born in north bend , ohio .
+1 6 8 12 15 in 1785 , u.s. naval hero oliver hazard perry was born in south kingstown , r.i.
+1 4 5 9 11 in 1898 , composer george gershwin was born in brooklyn , n.y.
+1 11 13 18 20 in 1822 , the 19th president of the united states , rutherford b. hayes , was born in delaware , ohio .
+1 10 11 15 17 in 1890 , 100 years ago , american aviation hero eddie rickenbacker was born in columbus , ohio .
+1 17 19 32 34 today 's highlight in history : one hundred years ago , on oct. 14 , 1890 , dwight d. eisenhower , the 34th president of the united states , was born in denison , texas .
+1 4 5 9 11 in 1879 , humorist will rogers was born in oologah , okla.
+1 0 1 3 3 <e1> james dickey , georgia born , has been writer in residence at the university of south carolina for 23 years now .
+1 11 12 17 19 in 1831 , the 20th president of the united states , james garfield , was born in orange , ohio .
+1 0 0 6 6 <e1> copland , who was born in brooklyn , lives in upstate new york and is in failing health.
+1 4 4 8 8 in waco , near nelson 's hometown of abbott , auto parts salesman dave crowe proposed that fans join ` ` willie aid ' ' by mailing donations straight to the irs.
+1 15 17 22 24 in 1782 , the first president who was a native citizen of the unitedstates , martin van buren , was born in kinderhook , n.y.
+1 7 8 12 12 on this date : in 1735 , paul revere was born in boston .
+1 4 5 9 9 in 1752 , flagmaker betsy ross was born in philadelphia .
+1 16 17 21 23 today 's highlight in history : on jan. 8 , 1935 , rock and roll legend elvis presley was born in tupelo , miss .
+1 32 33 13 14 if there has been an undisputed rookie of the season it has been camden yards , home of the baltimore orioles , a distinguished new old stadium built on the spot where babe ruth is believed to have been born and nestling majestically among the warehouses of the inner city .
+1 3 3 14 14 the jury convicted robinson , half brother of the rev. jesse jackson and a greenville native , of accessory after the fact of assault and battery with intent to kill , in connection with the attempted murder of janice denise rosemond .
+1 21 21 25 26 a reading of the unpublished " written in my dream by william carlos williams " led to an impromptu lecture by ginsberg on his fellow new jersey native , whose use of vernacular and vivid description were a great influence on ginsberg and other beat poets .
+1 10 11 2 2 born in philadelphia the son of a jewish tailor , man ray was forced to flee his adopted home of paris    a city which revered him    during world war ii .
+1 0 1 5 7 <e1> lucille ball was born in jamestown , n.y. , the daughter of an electrician and a concert pianist.
+1 0 2 12 14 <e1> norton winfred simon was born on feb. 5 , 1907 , in portland , ore. , and spent his teen age years in san francisco .
+1 0 1 34 36 <e1> woodrow wilson  lrb  28th president  rrb  : born at about midnight , leaving the date in doubt , dec. 28 or 29 , 1856 , in a presbyterian manse in staunton , va .
+1 0 2 19 21 <e1> gerald r. ford  lrb  38th president  rrb  : born july 14 , 1913 , in omaha , neb .
+1 19 21 38 40 photo , color , the father of our 34th president was working as a railroad laborer when his son dwight d. eisenhower was born on oct. 14 , 1890 , in a modest two story frame house in denison , tex .
+1 0 1 10 10 <e1> andrew jackson , born march 15 , 1767 , in waxhaw settlement on the farm of his aunt near the north carolina south carolina , but before the border was drawn .
+1 0 1 18 19 <e1> george washington  lrb  first president  rrb  : born feb. 22 , 1732 , in westmoreland county .
+1 0 1 24 26 <e1> abraham lincoln  lrb  16th president  rrb  : born feb. 12 , 1809 , in a one room log cabin in hodgenville , ky. , in rolling hills in the central part of the state .
+1 0 2 27 30 <e1> ulysses s. grant  lrb  18th president  rrb  : born april 27 , 1822 , in a one room , 16x19 foot home in point pleasant , ohio , overlooking the ohio river .
+1 0 0 4 6 <e1> aldrin was born in montclair , n.j. , and christened edwin e. aldrin jr .
+1 6 9 19 19 on oct. 18 , 1921 , jesse alexander helms jr. was born to a policeman and his wife in monroe , population 3 , 000 .
+1 31 32 26 27 there are , to be sure , wpa accounts of the impact of the depression on rural america , great photographs by walker evans , but north carolina 's native son thomas wolfe , in " you can 't go home again , " described more lyrically the repercussions that events on wall street had on his state , even in little hollows like monroe :
+1 8 9 4 5 you 'll pass through rolling fork , where muddy waters was born , close to greenville , home of nelson street 's funky strip of blues clubs , and into clarksdale , at the intersection of highway 61 and another major road in blues lore , u.s. highway 49. ;
+1 46 48 63 63 he was one of the first to use color in appliances , first out of boredom with black and white and later out of disgust with what he calls " that rash of avocado green business in the '50s . " ; many consider him the frank lloyd wright of industrial design , not surprising since both men were born and raised in wisconsin and did perhaps their most important work in the midwest. ;
+1 6 7 11 11 the compliment is doubly interesting because tom wolfe , born in richmond , was one of the best known early practitioners of the so called " new journalism , " a high rolling , lively , often reckless style of reporting .
+1 8 9 25 25 i also feel obliged to point out that jack nicklaus thinks so highly of muirfield that he named a course he built in his native ohio after it .
+1 0 2 8 10 <e1> actress angie dickinson , who was born in kulm , n.d. , donated a coat she wore to the 1966 academy awards
+1 0 1 4 4 <e1> mr. vee , a fargo native , sent one of his recording contracts and an old sweater.
+1 2 3 7 7 true , woodrow wilson was born in virginia , but he won his political fame as governor of new jersey , so he hardly counted as a southerner in political terms .
+1 12 13 41 41 philadelphia museum of art : " perpetual motif : the art of man ray "    more than 250 paintings , collages , drawings , photographs , objects and films commemorate the centennial of the artist 's birth in philadelphia .
+1 12 12 15 18 as a real native detroiter , i want to remind everyone that madonna is from bay city , mich. , a nice place in the thumb of the state 's lower peninsula .
+1 26 27 29 30 an a one , an a two , an a three billion  rrb  taxpayers will be pleased to learn that a federal grant for lawrence welk 's north dakota birthplace has finally been buried , nine months after an embarrassed congress voted to kill it .
+2 15 15 17 17 the organization said in a statement that it raised the money during its ` ` drought in africa ' ' campaign , and that it was donated by private citizens , workers groups , churches and by religious and public charities .
+2 0 4 26 26 <e1> defense secretary frank c. carlucci , who is scheduled to meet with his soviet counterpart next month , also intends to protest the russian action , boone said .
+2 0 3 35 36 <e1> acting gov. rose mofford proclaimed a state of emergency friday to free up to $100 , 000 so the national guard can distribute supplies by helicopter to snow  and mud bound areas of the navajo reservation .
+2 9 9 15 17 fire officials said it was the largest blaze in dallas since flames swept through the willow creek apartment complex five years ago .
+2 4 4 16 18 the nation 's low friday was 32 degrees below zero at hibbing , minn. , and duluth , minn. , the city 's record low for the date .
+2 0 1 11 12 <e1> mrs. thatcher promised haughey that tom king , her minister for northern ireland , would make a statement soon about the ` ` organizational implications ' ' of the affair , the british spokesman said .
+2 1 2 38 38 the u.s. embassy will provide $25 , 000 to help victims of floods and mudslides that killed at least 196 people and left more than 10 , 000 homeless in rio de janeiro state , it was announced friday .
+2 0 0 18 20 <e1> harvey is serving a concurrent kentucky life sentence for the deaths of nine patients at marymount hospital in london , ky. , when he worked there from 1970 to 1971 .
+2 1 2 25 25 but richard marin , a senior vice president at bankers trust co. , told the conference , ` ` i do not believe any major u.s. banks will tender ' ' their loans under the mexican plan .
+2 11 11 31 32 though long considered outside the realm of high class lingerie , frederick 's has managed to spawn 150 stores nationwide and post annual sales in the $58 million range , spokeswoman ellen appel said .
+2 0 0 29 30 <e1> lyubimov talked to the associated press on wednesday night at the stage door after an applauded revival of his production of ` ` jenufa ' ' by czech composer leos janacek .
+2 0 4 27 27 <e1> wbzz fm manager tex meyer said the ` ` stupid human phone trick ' ' on thursday on the station 's highly rated ` ` quinn and banana ' ' show wasn 't in bad taste , ` ` but it was getting close. ' '
+2 3 3 17 18 this week , biden felt well enough to appear for several speaking engagements at colleges on the east coast .
+2 8 9 28 31 the daily polling of the sentiments of the new hampshire voters continued without pause , with vice president george bush locked in a neck and neck race with kansas sen. bob dole .
+2 0 0 14 14 <e1> gephardt aides , meanwhile , said they would unveil new ads today responding to simon 's spots , but they declined to give details .
+2 20 22 25 26 the plays , presented in celebration of the 100th anniversary of o 'neill 's birth , may go on to new york city and the soviet union .
+2 5 5 9 9 scattered light rain fell in washington state and northern idaho .
+2 9 9 31 32 ` ` if this amount of heroin had left thailand , it would have killed an uncountable number of people. ' ' _ viroj laohaphan , director general of thailand 's customs department , after authorities seized 2 , 822 pounds of the narcotic in what was believed to be the world 's largest single heroin bust .
+2 3 3 19 19 the senator last june announced he was a candidate for the presidency , but withdrew from the race in september in the wake of disclosures that he committed plagiarism during law school and exaggerated his academic accomplishments during campaign stops .
+2 8 8 10 11 after 75 years , love still blooms for charles and fannie forespring .
+2 0 2 14 14 <e1> gov. bob martinez last week picked seven out of a barrel to be on saturday 's award show .
+2 2 3 24 24 ` ` bruce gardner , the chopper pilot for the police , is the one who told me it went in , ' ' wells said .
+2 8 10 12 13 the test is weapons related and sponsored by livermore national laboratory , ms. yoerg said .
+2 8 8 15 15 the strike , begun at the end of december , led to a nationwide walkout feb. 2 that crippled ferry service at 12 ports .
+2 0 1 22 22 <e1> harold cassidy , attorney for mrs. whitehead gould , did not say what visitation she would seek during the meeting with the sterns , or when the meeting would take place , the newspaper said .
+2 0 0 2 2 <e1> viroj said thai authorities have questioned an employee of the shipping company , but made no arrests .
+2 6 6 36 36 a team of engineers has urged nasa to change the heat resistant lining on the nozzle of the space shuttle 's booster rockets because of questions about the material 's durability , a published report said sunday .
+2 4 4 10 10 throughout his tenure , simon 's persistent dissents challenging the illinois death sentence statute cemented his reputation as the odd man out on the seven member court .
+2 28 28 37 37 ` ` that 's creating some nervousness within the industry that maybe they 're falling behind in marketings , which would mean a larger carryover of cattle from january to february of this year , ' ' levitt said .
+2 25 26 33 33 ` ` it 's a very painstaking procedure right now , where you 're marking on teeth ... and measuring them , ' ' said walter poxon , international professional services manager for 3m .
+2 5 5 18 18 television ads that began airing sunday show simon describing himself as a candidate with compassion for people and dukakis as a bureaucrat .
+2 2 4 30 30 but the florida supreme court invoked states ' rights to deny him admission and the state 's board of control then adopted rigid entrance requirements that made it impossible for hawkins to enroll even if he won court approval .
+2 6 6 15 15 it was a logical target for iran , which attacks neutral vessels in retaliation for iraq 's attacks on iranian tankers.
+2 7 8 17 17 the three men belonged to the 22nd marine expeditionary unit , formerly called the amphibious unit , hughes said.
+2 1 1 16 18 the senate has been conducting hearings leading up to a vote on whether to ratify the intermediate range nuclear forces treaty.
+2 2 3 5 5 lounge owner iris massey said allgood was a regular customer who had been upset over marital problems.
+2 1 1 14 14 one robertson supporter outside the st. anselm college debate hall said he heckled the aids victims and their friends because ` ` they don 't live right. ' '
+2 14 15 32 32 to make government more accountable , top party officials should be elected by all communist party members , more than one candidate should run and the balloting should be secret , a pravda article proposed.
+2 18 18 37 37 ` ` we will continue to be anti communist , and no one will surprise us flirting with marxism wherever it may be. ' ' _ gen. alfredo stroessner , after winning an eighth straight term as paraguay 's president , amid charges of widespread election fraud.
+2 3 3 11 11 police reports say gallardo assaulted his wife at school in late january , and friends said she was also attacked another time near where she was killed.
+2 0 0 19 19 <e1> sadunaite found a note in his mailbox warning , ` ` we shall finish you off , ' ' senderov said.
+2 6 7 18 18 the ships have to cross the dardanelles strait before heading into the aegean sea and then into the mediterranean.
+2 0 0 21 21 <e1> alabama 's naacp president , who was arrested during an effort to remove a confederate battle flag from atop the state capitol , has vowed another ` ` day of reckoning. ' '
+2 8 9 13 14 christoffer 's family was identified only as an air force family living in southern california.
+2 1 5 29 29 two air force f 15 eagle jet fighters from king salmon intercepted a soviet short range transport plane 56 miles southwest of cape romanzof , the air force said monday.
+2 1 2 17 17 the berlin morgenpost said sunday that 80 , 000 files were missing from the center and former nazis paid millions to keep their pasts secret and the documents from being made public.
+2 6 6 15 15 the president , who arrived here saturday evening , had breakfast with his wife , nancy , and then the two of them went horseback riding.
+2 0 0 13 13 <e1> smith made sure ms. munn was at home watching station weto with him sunday night when his advertisement appeared midway through the show.
+2 3 3 10 11 to that , sheften replied : ` ` in the soviet union they use deceit , even in archives.
+2 10 10 26 26 blizzard like conditions were reported across parts of east central idaho during the morning near the montana border , with wind reaching around 45 mph at pocatello with occasional snow.
+2 5 6 8 8 she was buried at the general cemetery in managua 's old quarter.
+2 9 9 23 24 speaking to elderly residents at a nursing home , bush called dole 's plan a ` ` straitjacket ' ' that would limit social security cost of living increases to two percent.
+2 3 3 15 15 megabucks officials said sunday 's big winner goes to the cal neva for breakfast every sunday and regularly plays their slots.
+2 22 23 26 26 ` ` we will have a law and order problem this summer if it still doesn 't rain , ' ' said r.n. meena , the ajmer district 's top administrator.
+2 4 5 17 17 in 1973 , the united states and communist china agreed to establish liaison offices in beijing and washington.
+2 13 13 17 17 in 1954 , the first mass inoculation of children against polio with the salk vaccine began in pittsburgh.
+2 0 0 27 27 <e1> katrine , who specializes in science and mathematics at school , said by telephone from her home in the port city of aalborg she was delighted with collet 's response.
+2 0 0 5 5 <e1> maxwell and kanu announced in january 1987 they would be partners in a series of media related businesses , including a textbook publishing company.
+2 7 7 10 10 you 've chosen to back a strong america , an america strong enough to bring peace to the entire world. ' '
+2 0 0 15 16 <e1> tillotson 's father , neil , came up with the idea in 1960 of making dixville notch the first town in the first primary state to cast ballots .
+2 0 1 23 24 <e1> mardi gras , or fat tuesday , was the crescendo of two weeks of nightly pre lenten carnival parades in the city that care forgot .
+2 2 3 11 12 ` ` senator biden continues to improve , ' ' said ms. nutt , who read a prepared statement issued by the hospital .
+2 8 8 17 18 her lawsuit alleged negligence on the part of bloomington police officers steven sharp , randall keller and james ratcliff .
+2 0 2 18 18 <e1> mrs. defensor santiago made the offer conditional on hsu obtaining a certificate from the u.n. high commissioner for refugees attesting to his political refugee status .
+2 10 10 39 40 it was the first meeting between the leaders since the london government on jan. 25 acknowledged there was evidence of a conspiracy to obstruct justice following the killing of six unarmed catholics by police in three separate incidents in northern ireland in 1982 .
+2 1 1 26 26 besides vietnam , the list of countries included soviet bloc nations , cambodia , ethiopia , iran , iraq , laos , nicaragua , syria and libya .
+2 0 0 5 6 <e1> simon said u.s. officials asked west berlin authorities to investigate , but he declined to comment further ` ` because there is an investigation under way. ' '
+2 7 7 34 36 the quake , which occurred northwest of bristol at 10 : 26 a.m. , measured 3.2 on the richter scale , said jill hart , with the center for earthquake research and information at memphis state university .
+2 4 4 11 12 the registrar of the university of nigeria 's nsukka campus , u. umeh , said he had closed the university on the advice of the government .
+2 0 2 29 29 <e1> defense secretary george younger said tuesday that a refusal by west germany to continue deploying short range nuclear missiles would leave a ` ` gaping hole ' ' in nato 's ability to back up conventional forces with a nuclear threat .
+2 0 1 12 13 <e1> elaine baldwin , a spokeswoman for the national institute of allergy and infectious diseases , said that means trimetrexate is likely to be available to about 300 patients nationwide .
+2 4 4 21 21 in his statement , yeutter said the industry petition ` ` raises questions about whether policies of the korean government restrict u.s. companies from open and non discriminatory access to the korean cigarette market. ' '
+2 3 5 15 15 according to developer edward j. ryder , a usda scientist at salinas , calif. , autumn gold resists mosaic virus , which causes lettuce plants to have small , distorted heads and unhealthy looking dark and light green patterns .
+2 6 6 8 8 a group of american scientists on tuesday disputed reagan administration statements that it was not practical to verify the dismantlement of nuclear warheads under an arms control agreement .
+2 9 9 17 18 the commission agreed in its final report , concluding florida 's pre launch freeze contributed to an o ring failure that caused the accident .
+2 0 1 17 17 <e1> ted williams posed for pictures with bush and goldwater , the retired senator from arizona and 1964 gop standardbearer , stumped by his side and cut a memorable televised campaign ad .
+2 1 3 32 33 the new york times reported feb. 11 that high honduran military officials had become involved with a powerful honduras based narcotics trafficker , juan ramon matta , in shipping cocaine to the united states .
+2 11 11 17 17 ` ` when he was looking at me he would see kristy , he wouldn 't see elizabeth , ' ' she said .
+2 5 5 10 10 victims ' rights organizations , delaney and voto 's brother andrew , now police chief in this small blue collar community , have been at the forefront of efforts to block parole .
+2 0 0 36 36 <e1> abc only got a silver in the ratings the first week of winter olympics coverage , but abc 's ` ` world news tonight ' ' was golden for the first time since august , snapping cbs ' 20 week win streak .
+2 3 3 8 8 asked later about dole 's accusing remark , bush said : ` ` i don 't know what he 's talking about. ' '
+2 2 3 27 27 republican rival bob dole threatened to shatter what his campaign called a ` ` myth of invincibility ' ' surrounding the vice president 's organization in the south .
+2 9 9 24 24 ` ` it sounds like he  lrb  biden  rrb  is doing better than that , though , ' ' said laws .
+2 1 1 5 5 but ethiopia is a close kremlin ally and has benefited for years from western food conributions .
+2 0 0 14 14 <e1> bosch was found innocent in venezuela of the bombing charges for a third time aug. 7 and was held in a secret location by venezuelan police for security reasons while awaiting an appeal by the prosecution .
+2 1 4 26 29 the mississippi river bridge authority policeman , whose name was not released , was assigned to the ferry tuesday because of mardi gras crowds , said mrba cpl. george eberhardt .
+2 4 4 7 7 asked later about the dole remark , bush said , ` ` i don 't know what he 's talking about. ' '
+2 12 12 22 22 ` ` i 've worked harder and longer to make the new south new than anyone in this campaign , ' ' jackson said , citing his work for voting rights and open housing .
+2 0 0 10 11 <e1> jerusalem , another frequent venue for recent protests , and tel aviv are about 37 miles apart .
+2 0 1 13 13 <e1> daily mail on the presidential primaries : robert dole and richard gephardt won iowa .
+2 15 16 30 30 the attorney general has refused to comment on his grand jury appearances , but the justice department says he is cooperating with the investigation and is not a target of walsh 's probe .
+2 5 5 17 17 on that same day , sunday , valentine 's day , simon campaigned in the streets of manchester .
+2 0 1 27 27 <e1> president reagan is planning to name william a. brown , a leading expert on soviet affairs , as the new u.s. ambassador to israel , a senior u.s. official said today .
+2 0 1 23 25 <e1> roger mudd , a special correspondent on ` ` the macneil lehrer news hour ' ' and former co anchor of ` ` nbc nightly news , ' ' will moderate .
+2 2 3 11 16 ` ` little league is not dying , ' ' said westport little league secretary linda abraham .
+2 9 9 23 23 an additional 500 , 000 metric tons of subsidized u.s. wheat has been sold to the soviet union , the agriculture department said wednesday .
+2 1 2 9 9 the white house issued a quick denial , and robertson 's republican rivals criticized his statement as inflammatory and untrue .
+2 0 0 11 11 <e1> highs of 70 and 80 are likely in florida and southern texas .
+2 0 1 12 13 <e1> du pont , who had not been heard from much after the new hampshire primary , scheduled one in the afternoon .
+2 0 1 8 8 <e1> el salvador 's christian democratic government accuses neighboring nicaragua of backing the salvadoran rebels .
+2 1 2 21 21 the united states plans to give to west germany the world 's largest collection of nazi documents , u.s. officials said wednesday .
+2 1 1 7 7 on dec. 22 , lasker ruled that minpeco must subtract from its damage claim profits made when silver bullion prices skyrocketed , and could not sue for lost potential profits .
+2 5 5 7 7 but the report by the eec executive commission predicted there would be no economic recession .
+2 0 0 2 2 <e1> morton said eurotunnel has spent about 300 million pounds , or $525 million , of the 750 million pounds it raised in a stock offering last year .
+2 2 2 4 4 the official workers ' daily recently tried to debunk traditional beliefs about lucky ` ` dragon babies. ' '
+2 0 1 12 12 <e1> dorothy hart , sister in law of composer lorenz hart , said loewe had a flair for the extravagant even before he made it big .
+2 2 3 6 6 the budget president reagan sent to congress today isn 't likely to survive long but it embodies a philosophy of government that he hopes will be a legacy of his administration .
+2 4 6 22 25 a former employee , richard wade farley , 39 , of san jose , calif. , is arrested and held at the santa clara county jail .
+2 15 16 29 31 the attorney general has refused to comment on his grand jury appearances , but the justice department says he is cooperating with the investigation being conducted by independent counsel lawrence e. walsh and is not a target .
+2 1 1 27 27 the cftc , because it regulates trading in stock index futures in addition to agriculture and other commodities , has become a highly visible institution since the oct. 19 stock market crash .
+2 7 7 25 25 now a museum run by the state department of parks and recreation , the sprawling home is one of the most popular tourist attractions in california .
+2 9 9 38 39 as much as $8 million from a $52 million u.s. currency shipment to argentina was lost as the bags of cash were being transferred from a jet to an armored brink 's inc. truck in brazil , the daily news reported today .
+2 35 35 40 41 ` ` it 's like getting on the one foot line , and you don 't quite score that touchdown , ' ' he said , adding , ` ` i have to win next tuesday in either minnesota or south dakota. ' '
+2 4 4 11 11 after several discussions , hearn said he killed mrs. black in february 1985 by shooting her twice in the head at her house.
+2 7 8 12 13 this was considered a reference to the soviet union and china , north korea 's closest neighbors.
+2 0 3 17 17 <e1> justice lewis f. powell , who kennedy succeeds , and chief justice warren e. burger were in florida.
+2 0 0 10 10 <e1> stennis was a long time southern power broker in the senate , particularly on military matters and funding.
+2 10 11 14 14 and , of course , we should not bypass the supreme soviet of the u.s.s.r. we are to re think its role so as to increase the effectiveness of its activites , starting from the presidium and full scale parliamentary sessions and ending with the work of the commissions and individual deputies.
+2 1 3 7 8 the nuclear regulatory commission also ordered the 3m corp. to recall for inspection all 45 , 000 of the suspect devices , ionizing air guns used to control static electricity and remove dust from product containers.
+2 0 0 12 13 <e1> miranda 's lawyers made a copy of the document avaialble to the associated press.
+2 0 0 27 28 <e1> loyola is the only medical center in illinois permitted to perform the procedure and one of 15 centers designated by the food and drug administration throughout the united states.
+2 0 1 27 27 <e1> miss smith , a former motel employee , ignored a state deadline feb. 8 to move out and likened her protest to civil rights battles led by king.
+2 0 0 22 22 <e1> tmic is a subsidiary of the nation 's leading title insurer , ticor , and has been operating under state conservatorship since april 1986.
+2 4 4 6 6 unanimously confirmed by the senate , kennedy is viewed as a moderate conservative with an open minded approach to issues involving civil rights and individual liberties .
+2 4 4 17 17 the wreck of the zuypdorp lies at the bottom of a cliff about 400 miles north of fremantle in only 10 feet of water , but the area is constantly buffeted by heavy seas .
+2 0 2 6 7 <e1> sgt. bob watts , of the metro patrol burglary unit , said the fact that only the paintings and photo were stolen during the break in ` ` seems to indicate they went there for the specific purpose of stealing his art. ' '
+2 4 5 27 27 minority leaders and the city council have berated the department for the past two years for being too trigger happy when confronting suspects , especially blacks and hispanics , but others have rallied around police .
+2 4 4 8 8 the spokesman said the pentagon had played down higgins ' background over the past two days because it did not want to aggravate the situation surrounding his kidnapping .
+2 5 5 18 18 on the republican side , friday night 's dallas debate dwindled to a cozy twosome between bush and kemp .
+2 0 1 10 11 <e1> nelson films plans to film ` ` the lives of beryl markham ' ' this fall .
+2 4 5 16 17 his grandson _ born richard rosenheim , but who changed his name at age 19 to richard rich _ took over in the late 1940s and guided the store until his death in 1975 .
+2 5 6 14 14 sales of catfish in the united states totaled 5 , 680 metric tons in january , the report said .
+2 0 0 21 21 <e1> cdc director james mason , another witness , said more than 15 million americans are being tested anonymously each year for aids through blood banks and the military and in 30 communities .
+2 12 12 17 17 he said he was announcing his intention to seek an investigation of wright now to give other house members time to familiarize themselves with the long list of allegations .
+2 0 2 19 20 <e1> ucla medical center in los angeles turned rejected the liver as not an ideal candidate for their recipient , ms. rockwell said .
+2 0 0 34 35 <e1> mexico has asked the united states to give favorable treatment to banks that take part in the government 's new program to exchange part of its foreign debt for long term bonds , the treasury department said .
+2 7 8 22 23 but he praised 17 year old newcomer linzi hateley as the telekinetic carrie of the title , a traumatized adolescent played by sissy spacek in the 1976 film version of the book .
+2 3 3 14 15 in a late friday night television interview , kukacka confirmed his comments published by die presse .
+2 8 9 17 17 british officials said the material sent from the united states was a copy of the so called alimina file dealing with the capture of the commandos .
+2 0 0 13 13 <e1> friday 's two hour hearing seemed designed to assuage the fears of some soviets that their leaders made too many concessions in the treaty .
+2 2 2 25 25 the official tass news agency reported that the upper stage of the proton rocket booster failed on wednesday and that on thursday ` ` the sputniks entered dense layers of the atmosphere and ceased their existence. ' '
+2 0 0 26 26 <e1> karlsson , 26 , has been fighting since 1983 to win custody of michael from her polish ex husband , who was initially given custody in colorado and polish courts .
+2 30 30 52 52 infants more than 3 to 3  lcb  months old given transplants ` ` will reject with considerable vigor , ' ' requiring aggressive anti rejection therapy , said bailey , who has performed heart transplants on the world 's youngest infants , including a four hour old canadian boy last october .
+2 1 1 25 25 the foundation for the development of polish agriculture is the result of the personal interest of rockefeller and the rockefeller brothers ' fund , said leon irish , chairman of the foundation 's organizing committee .
+2 1 5 12 12 and u.s. food and drug administration spokeswoman susan cruzan noted that the fda 's list of risk categories does not include promiscuous heterosexuals .
+2 3 3 20 20 this week , dixon received 100 copies of the dickson newspaper ` ` sovetsky taimyr , ' ' printed in english .
+2 0 2 30 32 <e1> joan hensley davis , 54 , was arrested friday and charged with first degree murder in the 1986 death of james h. hensley , said st. clair county state 's attorney john baricevic .
+2 14 14 32 32 the tremor measured 5 on the richter scale and the epicenter was in the andes about 50 miles south of bogota , said the geophysical institute of the andes , according to rcn .
+2 0 0 12 12 <e1> king , who had earned a graduate degree from the school of theology in 1955 , donated the papers to the university in 1964 .
+2 4 4 14 14 he was the first american non astronaut to fly aboard the space shuttle in december 1983 .
+2 0 0 19 19 <e1> pilaski was an impoverished west german seaman in 1955 when he immigrated to the united states , sponsored by small 's parents .
+2 8 9 39 39 a survey of 26 cities released by the u.s. conference of mayors in december found a 21 percent increase in the demand for emergency shelter , ranging from a 44 percent jump in kansas city to no change in louisville .
+2 6 6 10 11 bengali is the main language of bangladesh , formerly called east pakistan .
+2 0 0 15 16 <e1> shultz is tentatively scheduled to arrive on thursday for talks on how to achieve a middle east settlement .
+2 3 3 10 12 in 1941 , mills married the playwright and former actress mary hayley bell .
+2 2 3 17 18 several prominent american jews , including movie director woody allen and rabbi alexander schindler , leader of jewish reform congregations , in the past few weeks have condemned army policies in the occupied territories .
+2 2 2 4 6 criticism about waldheim 's world war ii conduct surfaced during his 1986 campaign for president .
+2 0 1 34 34 <e1> makoto miike , former japanese postal and telecommunications minister and the eldest member of japan 's house of councilors , died of a liver ailment at a tokyo hospital , a hospital official said sunday .
+2 0 0 28 28 <e1> garbage is our past and garbage is our future , ' ' rathje , a professor of archaeology at the university of arizona , said in an interview thursday .
+2 19 19 31 31 the victims , all shot repeatedly with a rifle , were discovered in the family 's mobile home on feb. 7 , 1987 , two days after they were killed , sanders said .
+2 10 10 19 19 light snow fell only across parts of the northeast on sunday , while high wind surged across the northern plains .
+2 22 23 36 37 before he arrived in this ranching and farming community of about 11 , 000 people on the flat high plains of eastern new mexico , thomas lived in a rotting wood and canvas shack along the chicago river .
+2 0 0 21 22 <e1> cliburn broke his long silence with a white house performance during december 's summit meeting between president reagan and soviet leader mikhail gorbachev .
+2 0 0 27 28 <e1> ruddell , past chairman of the sunset view civic association , said the map is best seen in the winter when leaves have fallen from trees on haystack mountain .
+2 0 0 33 33 <e1> hayes , who spent 27 years with the national aeronautics and space administration , directed the at sea recovery efforts that plucked astronauts from the ocean after their space capsules had returned to earth .
+2 0 0 24 24 <e1> stewart , the star of such classics as ` ` it 's a wonderful life ' ' and ` ` mr. smith goes to washington , ' ' was asked what he thought of computer colorization of his old black and white films .
+2 6 6 17 18 an end to what they call u.s. intervention in lebanon and to u.s. diplomatic missions to the middle east .
+2 25 27 33 33 ` ` i think that 's a virtual mandate for schools to get information out for teachers and students to understand , ' ' said michael r. kagay , vice president of the harris organization .
+2 5 5 11 12 the ads drew retorts from dukakis supporters in both minnesota and south dakota .
+2 0 2 11 13 <e1> dr. john allegro , renowned for his work in deciphering the dead sea scrolls but ridiculed for his theories that western religions were based on the worship of mushrooms , has died .
+2 15 15 25 26 in a new forward she wrote at age 91 for her 1949 book ` ` oklahoma , foot loose and fancy free , ' ' ms. debo called her home ` ` more than just another state. ' '
+2 0 0 32 32 <e1> bta said those injured in the fire at borovets , 22 miles southeast of sofia , were from britain , the soviet union , west germany , the netherlands , greece and denmark .
+2 0 0 10 12 <e1> nunn threatened to block the treaty until secretary of state george p. shultz promised last month that administration comments on the treaty were ` ` authoritative , ' ' meaning that future administrations couldn 't try to change how the treaty is viewed .
+2 6 8 14 14 snow was scattered across parts of montana , wyoming , northeastern colorado and northern maine .
+2 14 15 24 27 ` ` i think i 'm going to be the next president of the united states , ' ' the vice president said in myrtle beach , s.c.
+2 0 0 7 8 <e1> dole is heavily favored to win the south dakota contest .
+2 1 2 5 5 for release tues pms , feb. 23 , and thereafter
+2 2 2 4 4 today is wednesday , march 2 , the 62nd day of 1988 .
+2 1 2 27 28 the associated press , as part of the ` ` taxes and your money ' ' special edition , misstated the formula for determining what portion of social security benefits is taxable .
+2 6 9 13 14 it follows a decision by the federal national mortgage association , known as fannie mae , to purchase convertible mortgages as well .
+2 1 2 33 33 composer larry shay , onetime musical coach of such greats as al jolson and jimmy durante , and best known for the song ` ` when you 're smiling , ' ' died monday of lung cancer.
+2 0 1 14 15 <e1> joseph kennedy , d mass. , $656 , 894 ; and bob mcewen , r ohio , $634 , 445.
+2 6 6 19 20 as a courtesy to their colleague gephardt , the trade bill negotiators were expected to wait until after the super tuesday primaries to give his provision the heave ho.
+2 4 4 43 43 disclosures last year that toshiba machine company of japan had exported high technology submarine technology to the soviets in violation of cocom regulations led to the filing of criminal charges against some company officials in tokyo and strong denunciations of the sale from u.s. lawmakers.
+2 0 0 29 29 <e1> yewene said the protesters did not object to the building of a hospital , but not at the site chosen , which he said was vital to the local tieti tribe.
+2 1 1 17 17 the navy was given large increases for shipbuilding as part of the record military spending buildup in reagan 's first term.
+2 0 0 14 14 <e1> preston said his 3  lcb   year old boxer woke him up friday morning , ` ` whining , like she wanted to tell me something , ' ' he said.
+2 2 2 19 20 parts of exner 's story were questioned today by giancana 's daughter antoinette , the author of ` ` mafia princess. ' '
+2 0 2 11 12 <e1> limerick county council chairman paddy sheehy , who happens to be mrs. heckler 's cousin , greeted her when she arrived , and the local folk music band regaled her with songs of welcome.
+2 7 7 22 23 the private meeting took place in the queen 's audience room , where the 61 year old monarch has weekly talks with mrs. thatcher and occasionally meets other officials.
+2 3 5 27 30 ` ` the red sorghum field ' ' _ an epic film about seduction and war in china _ won the best picture award tuesday at the 38th berlin film festival.
+2 0 0 35 35 <e1> ball , a stocky , 39 year old who has served as the president 's chief lobbyist on capitol hill since 1986 , was tapped tuesday to succeed james h. webb as secretary of the navy.
+2 16 16 29 29 wildlife officials were told about the deer by a group of hunters who became angry when bradshaw would not let them shoot the animal , which was caged , moon said.
+2 6 7 27 27 he will be succeeded at the white house by a deputy , alan kranowicz , who has been primarily responsible for white house lobbying efforts in the house.
+2 4 4 29 30 snow fell in southeastern kentucky , west virginia , and western sections of pennsylvania and new york , mixed with rain across parts of northern new england and central new york.
+2 18 19 31 31 charges were filed after a series of sales that tripled the price of a piece of land in st jean from $800 , 000 to $2.98 million in 11 days of january 1986.
+2 11 13 15 15 the article details the size , appearance and technical specifications of apple computer inc. 's laguna laptop model , which it said would be available in 1989.
+2 17 18 26 29 the bill , if enacted , would require the three agencies whose approval is required _ the interior department , the fine arts commission and the national capital planning commission _ to reconsider the proposal within 90 days .
+2 0 0 6 6 <e1> nudelman said that trying to help kalafut overcome his prejudice against blacks made more sense than sentencing him to jail , ` ` where he won 't learn anything except more hatred. ' '
+2 2 2 48 48 he said ireland ` ` ranks down the list ' ' of foreign aid priorities , adding that the united states does not get a ` ` real return ' ' on its investment despite the emotional and ` ` maybe political appeal ' ' of aid to ireland .
+2 3 4 26 27 the returns from south dakota 's presidential primary election were complete _ except for lincoln no. 51 , a rural precinct near lemmon in extreme northwestern south dakota .
+2 0 0 13 13 <e1> jackson has received $621 , 828 , gore nearly $2 million , and hart $1.1 million .
+2 6 6 19 19 only one similar tea bowl from vincennes is known to exist , and it is in a museum at sevres , the other famous french porcelain center .
+2 8 9 13 14 they were convicted in the 1981 murder in san francisco of a woman mrs. carson told investigators was a ` ` psychic vampire ' ' who was draining her of her beauty .
+2 3 3 17 17 the former chief washington correspondent of cbs news , at a seminar tuesday at the museum of broadcasting , expressed misgivings about the rise of features oriented tv magazine shows .
+2 0 1 33 35 <e1> maritza rentz , a 38 year old psychotherapist arrested tuesday , was being held today on $8 , 000 bond for investigation of second degree kidnapping in the abduction of 5 week old rachael ann white , police said .
+2 7 7 22 22 budget constraints have delayed a 600 vessel navy , but it should still be realized in fiscal year 1992 or thereabouts , fitzwater said .
+2 10 11 35 35 reports that toxic chemicals may have been dumped into the ohio river while the water was fouled with diesel fuel have been turned over to environmental protection agency criminal investigators , an epa official said wednesday .
+2 0 0 10 10 <e1> dmv officials said dominic blum 's license was suspended effective march 10 .
+2 0 1 21 21 <e1> air force combat training over everglades national park would spoil the wilderness and threaten endangered species , the state cabinet concluded tuesday .
+2 0 0 17 18 <e1> kemp finished second in michigan , third in new hampshire and minnesota and fourth in iowa and south dakota .
+2 6 6 22 26 the arrest warrant used by the senate to bring sen. bob packwood to the floor early wednesday left no question about what sergeant at arms henry giugni had to do .
+2 17 17 19 20 ` ` there is absolutely no harm done to the campaign by this , ' ' said gore spokesman paul risley .
+2 10 10 35 35 it said the resumption of talks between the government and eta leaders living in exile in algeria might bring an end to 20 years of violence that has convulsed the three basque provinces in northern spain and spilled over into the rest of the country .
+2 8 10 35 35 ` ` with 7.7 million members , the national baptist convention has grown to the point where the leadership decided we need a central headquarters from which to manage our many missions , ' ' jemison said .
+2 2 2 25 25 photographs showing swaggart with a prostitute reportedly were given to church officials by rival evangelist marvin gorman , who filed a $90 million suit charging swaggart with unjustly accusing him of numerous sexual affairs .
+2 0 0 12 12 <e1> carlucci ordered 16 aging frigates mothballed , which will mean that the navy will have 580 ships at the end of the current fiscal year .
+2 20 20 27 27 researchers won 't have statistics on how effective the device is in preventing pregnancy or the spread of diseases like aids until additional studies are completed , salmon said .
+2 0 0 45 45 <e1> jackson also had targeted the state _ where he got only 2.4 percent of the vote in his 1984 race _ but had spent only four days campaigning there this time around , and put only about $45 , 000 into the state , said austin .
+2 0 0 18 20 <e1> biaggi was convicted sept. 22 of illegally accepting a paid florida vacation from meade esposito , the former brooklyn , n.y. , democratic leader .
+2 0 2 39 40 <e1> kim hyun hee , a surviving member of an alleged two agent north korean team , confessed on south korean television that she helped plant a time bomb on korean air lines flight 858 before leaving the plane in abu dhabi .
+2 2 2 26 26 snow fell wednesday across much of the great lakes region , the upper ohio valley and the central appalachians , and light rain fell in southern florida , while most of the rest of the nation had dry weather .
+2 0 0 14 14 <e1> herrington met on wednesday with danforth and several other senators from states along the tmi rail route .
+2 0 0 11 13 <e1> hitchcock 's original death sentence was overturned in april by the u.s. supreme court , which ruled the original jury in 1977 had not considered mitigating evidence of the defendant 's character and background .
+2 9 9 40 40 after viewing a rough cut of the movie , martinez complained that the film demeaned hispanics by making them look like bad guys , and presented a list of objections to texas cavalcade corp. , the production group headed by mcalister .
+2 8 8 10 10 three fourths of its people live in the phoenix and tucson metropolitan areas .
+2 1 4 8 8 former prime minister mamdouh salem died thursday in london while undergoing treatment from an undisclosed illness .
+2 4 4 26 27 because of geology , ketter said , an earthquake of a given strength can shake an area 100 times larger in this region than on the west coast .
+2 1 1 6 7 but reagan gave no assurances to cavaco silva , said a senior administration official , speaking on condition of anonymity .
+2 15 17 20 23 it 's like they always said , but nobody ever believed , ' ' said dr. clifton bogardus of the national institutes of health .
+2 14 15 28 28 ` ` whatever he gets  lrb  in delegates on  rrb  super tuesday , fine , but don 't spend any money , ' ' dixon said .
+2 42 43 49 50 the survey responses , including 20 signed forms from doctors who said they had helped patients , were destroyed because of a ` ` witch hunt ' ' for a doctor who described a mercy killing in a medical journal , said derek humphry , executive director of the hemlock society .
+2 1 1 13 13 the cyprus question has long soured relations between greece and turkey , two nato allies , posing a potentially serious weakness in the atlantic alliance 's vulnerable southern flank .
+2 0 1 28 28 <e1> linda squire , 21 , hid the 5 week old black and white rodent in her sweater during the 32 hour flight from perth , australia , to london .
+2 1 1 24 24 in london , the foreign office said mellor delivered a letter to the iraqi president from mrs. thatcher asking for his help in obtaining smith 's release .
+2 0 1 3 3 <e1> edouard saouma , fao director general , appealed to donors to send ethiopia trucks , spare parts , fuel and port handling equipment .
+2 0 0 22 22 <e1> mamula has faced tough criticism in a series of articles published in the liberal republic of slovenia for his february visit to ethiopia .
+2 10 10 31 32 east german officials at the scene and the state run adn news agency said the containers held parts of dismantled ss 12 missiles and that the train was headed to the soviet union , where the missiles would be destroyed .
+2 7 7 12 12 and in case anyone was wondering , worcester cobbler david jennette says springsteen wears a size 10d boot .
+2 0 0 4 5 <e1> duffy 's father , duane duffy , said his son had rescued a brother and sister years earlier .
+2 0 0 10 11 <e1> kennedy said that no matter what congress does on the glass steagall law , which restricts the role of banks , ` ` local communities and consumers deserve to have their rights under the law enforced. ' '
+2 0 0 13 13 <e1> delvalle said he ordered noriega out as chief of the defense forces of panama ` ` to allow justice to continue an impartial course without pressures of any kind. ' '
+2 7 7 24 24 three to 5 inches of snow fell thursday morning in ohio 's geauga and lake counties , while 2 to 3 inches covered downtown cleveland .
+2 0 0 22 23 <e1> lemasters said cbs might put its current schedule of late night original dramas , ` ` adderly ' ' and ` ` night heat , ' ' in the 1 a.m. time period instead of canceling them .
+2 2 2 26 26 he said reagan 's space policy affirms the nation 's commitment to the space station and to human exploration beyond earth orbit , such as to mars .
+2 38 38 47 48 ` ` now that we are guided by the experience of glasnost , we can see clearly how little was done to inform people about the past , about real problems , about planned decisions , ' ' burlatsky wrote in an article published wednesday in the literary gazette newspaper .
+2 20 22 26 26 basque separatists appear to have broken a 60 day truce they offered the government by kidnapping 58 year old businessman emiliano revilla sanza , officials said thursday .
+2 0 1 24 25 <e1> whittle communications expects to put its six quarterly magazines in the waiting rooms of pediatricians , gynecologists and family practitioners this fall , said patti carr , the company 's corporate marketing associate .
+2 10 10 19 19 most victims were from the low lying slums north of rio hit hardest by the flooding , which began feb. 2 .
+2 7 7 13 13 although no polls had been taken , brady said gore , jackson and gephardt are the early favorites .
+2 9 14 25 26 named as defendants in the case that opened before u.s. district judge morris e. lasker were : nelson bunker hunt , william herbert hunt and lamar hunt .
+2 1 1 22 22 among march contracts for refined products , wholesale heating oil was selling at 45.45 cents a gallon , down 0.95 cent from wednesday , while unleaded gasoline stood at 45.45 cents per gallon , 0.90 cent lower .
+2 0 0 2 2 <e1> china and vietnam fought a bloody border war in 1979 and have since accused each other of frontier violations .
+2 18 21 43 43 the other soldier said that a fire had broken out at the back of the helicopter based at fort sill , okla. , and that those aboard had tried to move to the front to get away from the flames , according to rankin .
+2 1 1 12 13 the pentagon denied it , the white house denied it , even fidel castro denied it .
+2 3 4 43 43 an aide , jimmie powell , said that ` ` to the extent you can manage pesticides for their leaching ability , it could be a reasonable proposal ' ' to let states make detailed , area specific management decisions along the lines epa is proposing .
+2 5 7 17 19 it has been on the new york times best sellers list since november 1986 , according to north point press .
+2 7 9 28 29 as a lawyer and vice president of w.c. fields productions , everett f. fields has sound economic reasons to be worried about products that make unauthorized use of w.c. fields ' name and image .
+2 15 16 26 26 the street violence stirred up political tensions in the city after a 27 year old long beach woman was gunned down by gangs in the trendy westwood area last month .
+2 3 3 39 39 this morning , cuomo said that whatever happened with the grand jury , he thought it was ` ` very unlikely ' ' that tawana would be sent to jail even if she continued her refusal to cooperate with abrams ' investigation .
+2 1 2 14 14 a zimbabwe based professional hunter and safari operator admitted in court he had offered wood money for a hunting permit .
+2 0 1 37 37 <e1> state department spokeswoman phyllis oakley , reiterating what she termed ` ` our support for the supremacy of civilian constitutional rule , ' ' said ` ` we continue to recognize president delvalle as the president of panama. ' '
+2 7 7 13 14 all told , the remains of 152 americans have been repatriated to the united states and subsequently identified by the laboratory since the end of the war .
+2 0 1 34 34 <e1> michael dukakis jabbed gingerly at richard gephardt on trade and taxes friday , saying the 1981 tax cut his democratic presidential rival voted for was ` ` one of the biggest mistakes in recent american history. ' '
+2 19 21 31 34 that is , so long as the birds have been eviscerated and their heads and feet removed , said james w. glosser , acting administrator of the department 's animal and plant health inspection service .
+2 0 0 27 27 <e1> washington _ president reagan said he has no plan to intervene militarily in panama , and the state department said the united states will continue to recognize delvalle as president .
+2 4 4 16 16 it will be the soviets ' first international auction since the 1917 revolution that brought the communists to power .
+2 2 2 19 19 ` ` noriega 's gone bad , and he 's proven he 's trafficked in narcotics , ' ' bush said .
+2 7 8 36 36 the romanian government , apparently weary of white house and congressional demands for a better human rights performance , has renounced american trade benefits given to communist countries with good emigration policies , u.s. officials said friday .
+2 0 1 7 11 <e1> kyohei kakumoto , a director of the japan transport economics research center and commentator on transportation issues , said the projects were given the go ahead by politicians in the 1960s , at times of rapid economic growth and when forecasters predicted major increases in rail use .
+2 2 2 33 33 according to eurostat , january prices declined in three countries , including the netherlands  lrb  0.8 percent  rrb  , belgium  lrb  0.1 percent  rrb  and greece  lrb  0.2 percent  rrb  .
+2 0 0 28 30 <e1> chrysler inherited a stake in china last year when it took over american motors corp. , which produces cherokee jeeps as part of a joint venture known as beijing jeep co .
+2 10 10 16 17 together they control 36 percent while an international group around belgium 's biggest insurance company , groupe ag , controls another 16 percent .
+2 20 20 34 35 but today 's report said the local government did not have the money and that the airplane remained at the zhengzhou airport for two years before being donated to a tourist resort near the yellow river , where it has languished in a warehouse .
+2 1 1 15 15 the phoenix area is promoted to tourists and potential settlers as the valley of the sun .
+2 2 3 10 10 when explorer bartholomew gosnold visited this small island off the massachusetts coast in 1602 , he named it in honor of his daughter and the grapevines he found growing abundantly on its open land .
+2 6 7 20 20 the announcement also noted that the united states , in the agreement , had pledged to make it easier for turkey to repay its foreign military sales credits and also pledged to improve trade relations between the two countries .
+2 7 8 82 82 high in the 20s were predicted in upper michigan and northern through west central new england ; in the 30s and 40s from the remainder of new england and the great lakes across the ohio valley , the atlantic states through virginia , the upper mississippi valley , much of the dakotas , and northeastern montana ; in the 70s to low 80s in southern florida , much of louisiana , from southern kansas across much of texas , and in southern california and the desert southwest ; and in the 50s and 60s in most of the rest of the nation .
+2 9 9 11 11 space shuttle main engine testing has been conducted at nstl since june 1975 .
+2 2 2 18 18 the third weerts child , 12 year old tanya , died saturday evening at shands hospital in nearby gainesville .
+2 16 18 24 24 ` ` we must not and we will not give up this fight , ' ' sen. david boren , d okla. , said saturday in the weekly democratic radio address .
+2 10 13 18 18 but now the company plans to shift production of the l body omni horizon cars to detroit from kenosha , he said .
+2 1 1 15 15 a london newspaper said sunday that the united states has sent a secret envoy to iran to discuss re establishing diplomatic links .
+2 3 3 24 24 according to the u.s. officials ' account , soldiers came to delvalle 's house at 8 a.m. and were met at the door by delvalle 's wife .
+2 0 0 12 13 <e1> thomas ' bronze was the third figure skating medal here for the united states .
+2 2 2 26 26 archaeologists said sunday they discovered the remains of a roman amphitheater 15 feet below london 's financial district in one of the most important finds in britain this century .
+2 7 7 27 27 in the course of his campaign , gephardt has used a biographical spot , folksy ads boosting the family farm , patriotic ads asking voters to restore america 's soul , trade ads promoting his hard nosed views , testimonials from other politicians , and negative ads criticizing his democratic rivals .
+2 1 1 33 33 in embakasi , on the capital 's eastern edge near nairobi national park , a 35 year old man riding by a sewage plant was bitten on the head , buttocks and thigh thursday by a hippopotamus that emerged from the waste water , the paper said .
+2 3 3 21 22 a letter dated april 29 , 1974 , from the chairman of r.j. reynolds to an official of the council for tobacco research , describes a committee of manufacturers formed to study industry funded research programs .
+2 14 14 31 31 the weekend trip by 130 tourists , organized by a slovenian travel company and albantours , included visits to the albanian capital of tirana as well as durres , elbasan and shkoder .
+2 14 14 65 66 ` ` we had conferences with the very highest levels of  lrb  mexico 's  rrb  government and very careful protocol was laid out to protect the rights , choice and selection of patients , much , much more than is required in this country , ' ' said heimlich , a professor at xavier university in cincinnati and head of the heimlich institute .
+2 9 9 31 32 i 've not found anybody who couldn 't praise evan and his integrity , ' ' said birdie swasey , a retired teacher who has known the mecham family since the great depression .
+2 5 7 10 13 the request came from the heritage preservation commission , but commission chairwoman marie abbott said she now believes local residents are too parochial to honor the internationally respected author .
+2 3 3 17 18 his biography of gibran was first published in arabic in 1934 and then reprinted in english in new york in 1950 .
+2 0 0 3 3 <e1> bokassa was convicted june 12 , 1987 of ordering the murder of at least 20 political opponents .
+2 5 5 17 17 the latest reported bombing in tehran was feb. 18 , when a car bomb exploded on a tehran expressway , wounding two people .
+2 5 6 26 26 ` ` the flag of south africa not only relates to our history but is indeed a symbol of national unity and nationhood , ' ' botha said .
+2 32 34 51 51 ` ` there is no other candidate in the race who really stands for the old politics ... what i would call democratic fundamentalism , ' ' as espoused by the late sen. hubert humphrey , sen. edward kennedy , d mass. , and new york gov. mario cuomo , said schneider .
+2 0 1 5 6 <e1> eula jones , one of mrs. brown 's 10 children , said her mother has been resting up for her party .
+2 0 0 3 3 <e1> bokassa was convicted june 12 , 1987 , of ordering the murders of at least 20 political opponents .
+2 4 4 24 25 after the germans attacked poland in september 1939 , soviet troops invaded from the east and occupied eastern polish territories under provisions of the nazi soviet non aggression pact .
+2 9 9 19 19 in 1948 , the anti communist foreign minister of czechoslovakia , jan masaryk , plunged to his death in prague .
+2 3 5 10 10 in 1969 , beatle paul mccartney married linda eastman in london .
+2 0 0 26 26 <e1> vampire bat _ count dracula 's late night drinking buddy with a thirst for blood light ; its dagger sharp central incisors spread rabies throughout the amazon .
+2 0 1 4 5 <e1> lisa nageleisen came to pelee island to teach in 1981 , met and married a ferry worker .
+2 0 1 34 35 <e1> miriam mafai , a journalist who has written extensively on italian women , finds it curious that an overwhelmingly roman catholic country , where the pill was illegal until the early 1970s and where christian democrats are the dominant party , doesn 't have a policy to make it easier to raise a family .
+2 5 6 10 13 it promises to continue serving alpine county customers at its south lake tahoe branch , about 35 miles away .
+2 5 5 21 21 two flights a day to london 's gatwick would also be scheduled , in addition to service from west berlin to paris .
+2 0 2 34 34 <e1> de la madrid said he was quickening the pace of his inflation fighting program , unveiled in mid december , because fresh price figures showed ` ` an important de acceleration ' ' in february .
+2 1 2 13 13 the maryland court of appeals upheld the state franchise tax , ruling in october that the 1862 law takes precedence .
+2 0 0 16 16 <e1> roh , a former general , won the first democratic presidential elections in 16 years last december with 36.6 percent of the vote after rival opposition candidates split the opposition vote .
+2 13 13 27 27 the historians ' commission appointed by the austrian government reported last month that waldheim was ` ` in close proximity ' ' to nazi atrocities in the balkans , knew they were going on and made no attempt to prevent them .
+2 3 5 18 20 two classmates from stuyvesant high school in new york won the top awards in the 47th annual national science talent search .
+2 0 0 11 11 <e1> ferndo 's mother , janie gillian , wept at the hearing monday and said , ` ` my baby 's out .. .
+2 5 5 44 45 reacting to the crisis in panama , dole called for a full trade embargo against that country if its military strongman manuel noriega stays in power , and he urged the use of force if necessary to protect u.s. interests there , including the panama canal .
+2 4 5 19 21 the former judge , kenneth harris , was permanently removed from the bench last week by order of the pennsylvania supreme court .
+2 20 20 28 28 if those talks break down and the mechanics declare a strike deadline , the flight attendants , represented by the teamsters , could invoke their own walkout , cook said .
+2 10 10 13 14 the same year , a strong second place finish in vermont gave republican john anderson 's campaign a major boost .
+2 0 0 22 22 <e1> mcanespie 's body was exhumed sunday after his family requested an autopsy by an irishman in addition to that held by the british in the north .
+2 11 14 17 19 after a struggle to fund an exhibit on the assassination of president john f. kennedy , the dallas county commission approved a $2.3 million contract to build an elevator to what was believed to have been the killer 's perch .
+2 34 35 48 48 surrounded by bear gall bladders , bear claw jewelry , skin parts , whole stuffed bears , skulls , dried abalone and the genitalia of seals and asian tigers , regional game warden chief chuck monroe said the investigation helped to ` ` wipe out the poaching of california 's precious wildlife. ' '
+2 6 6 15 15 a severe thunderstorm watch was posted tuesday afternoon for portions of southwestern oklahoma and northwestern texas .
+2 12 12 19 19 ` ` one can 't treat a human being in the way pascal was treated , ' ' said lhote .
+2 0 0 14 15 <e1> midler grew up in hawaii and attended the university of hawaii before moving to new york to pursue her career .
+2 0 1 14 14 <e1> khaled nasser is among 20 men charged in connection with four shooting attacks on u.s. and israeli diplomats and embassy workers between 1984 and 1987 .
+2 9 11 17 20 price opposed the idea , and conservative member of parliament peter rost said tuesday he would ask education secretary kenneth baker to intervene .
+2 1 1 12 12 tv globo said the company had agreed to meet with union representatives wednesday .
+2 10 10 12 12 the four engine transport reportedly was on its way from libya to chad .
+2 0 0 35 36 <e1> martinez said mrs. griffith spilled out details of a parking lot confrontation with lee watkins , a senior aide of the governor , in which watkins allegedly threatened the life of another mecham assistant , donna carlson , who was believed to be testifying before a grand jury investigating the loan .
+2 0 2 12 13 <e1> circle k corp. 's agreement to buy 473 7 eleven stores from southland corp. reflects the continuing strength of the convenience store industry .
+2 9 9 23 23 an additional 500 , 000 metric tons of subsidized u.s. wheat has been sold to the soviet union , the agriculture department said wednesday .
+2 0 1 26 26 <e1> burger king 's share fell to about 16.8 percent in early 1987 from a 1986 high of 17.4 percent , the wall street journal reported in december .
+2 0 0 24 24 <e1> wiener said the soldiers detained the cnn crew for three hours and refused to return the videotape , saying it contained material damaging to israel 's security .
+2 23 24 37 37 ` ` with his disappearance , french theater loses one of its most brilliant servants , an inheritor of the tradition of the comedie francaise , that which runs from moliere to jacques charron , ' ' leotard 's statement said .
+2 0 0 7 7 <e1> olympics coverage on monday , tuesday and thursday also made it into the top 10 .
+2 8 9 13 13 lrb  44  rrb  ` ` j.j. starbuck , ' ' nbc , 12.4. 42 .
+2 0 1 9 11 <e1> cargill inc. , 375 , 000 tons ; and mitsui grain corp. , 25 , 000 tons .
+2 6 6 25 26 noting that another federal judge in washington last year upheld random drug testing of nearly 30 , 000 transportation department employees , hogan invited the justice department to appeal his decision .
+2 0 0 16 16 <e1> kennedy said his anti hunger legislation would raise food stamp benefits ` ` so that no americans are forced to go hungry for the last part of every month. ' '
+2 8 8 10 10 both of them also skipped a debate last sunday in houston .
+2 9 10 15 15 his hair much whiter than when he left the white house in january 1981 , carter wore an open necked checked shirt , a tweed jacket and khaki pants .
+2 16 16 42 42 in a survey of 1 , 121 likely democratic voters in the 16 primary states , jackson had an edge in mississippi , georgia , alabama and north carolina and was roughly tied with dukakis in arkansas , florida , texas and virginia .
+2 25 25 28 29 ` ` we recognize that this is a christian country and we have the utmost respect for the primacy for the church , ' ' cohen told the associated press .
+2 6 7 16 16 a photograph of an obviously pregnant ms. schlossberg , who married artist author edwin schlossberg in july 1986 , appeared in today 's editions .
+2 0 0 16 18 <e1> loftus said the investigation is looking at possible violations by the rail switching yard and the union pacific railroad , which operated the train after it left the yard , and a lime company that was shipping the car .
+2 0 1 8 8 <e1> mrs. shields stopped her trial , which began monday , and pleaded guilty after her husband testified that he had agreed to care for the children and had locked them in the car while his wife slept .
+2 0 0 24 24 <e1> city police supt. len esler said tuesday a man approached two police officers at the athletes ' village at the university of calgary on monday night and ` ` requested political asylum. ' '
+2 3 3 26 26 he also cited april 1987 guidelines issued by the federal centers for disease control in atlanta that prohibit labeling any child under age 13 as having arc .
+2 17 17 21 21 that includes a lot of internal safeguards to make sure that never happens again , ' ' hill said from his illinois office .
+2 15 15 17 17 parade participants will be asked to wear yellow arm bands to show their solidarity with doherty , scully said .
+2 7 10 32 33 they will be analyzed there by the army central identification laboratory to see if they belong to any of the nearly 1 , 800 americans listed as missing in action from the vietnam war .
+2 0 5 15 19 <e1> u.s. district judge terry hatter jr. issued a preliminary injunction tuesday against the company after assistant u.s. attorney george wu argued it may be fraudulently promoting the pill , which it claims absorbs fat and flushes it out of the body .
+2 4 4 24 24 foreign journalists based in moscow have been barred from the region and only sporadic reports from witnesses , activists and official media have reached moscow .
+2 11 11 14 16 ` ` we 're trying to carry out the intent of congress in the agricultural credit act of 1987 as closely as we can. ' '
+2 0 0 16 16 <e1> koentoro , head of the district health office in banyumas , said the latest victims died tuesday after eating soybean cakes contaminated with poisonous acid .
+2 0 0 8 8 <e1> macy 's bid , which came to light monday , was originally for $73.80 a share in cash plus stock , but the offer was increased before the agreement was reached .
+2 0 1 5 6 <e1> cynthia weil , who with barry mann won song of the year for writing the sweet ballad , ` ` somewhere out there , ' ' said : ` ` we wrote it for the mice .
+2 0 1 14 14 <e1> terry erskine , northwest 's vice president for law and labor relations , said monday an unusually high number of flight attendants called in sick over the weekend .
+2 13 13 31 32 foreign exchange dealers said the dollar firmed on two rumors : that the u.s. administration would allow the dollar to rise if american trade figures continue to improve and that the soviet union was buying dollars .
+2 0 2 26 26 <e1> john f. bookout , who has served as president and chief executive officer of shell oil co. since 1976 , announced wednesday he is retiring effective june 30 .
+2 9 9 31 31 in the program , ` ` the woman on mars , ' ' the democratic presidential candidate proposes reviving the apollo moon program and using the existing shuttle system to colonize mars .
+2 10 11 15 15 while the rest of the presidential pack stalks votes in super tuesday land , the illinois senator is hoping a homegrown victory will revive his flagging campaign following a string of disappointing showings in early contests .
+2 34 34 36 36 ` ` i 'm working on a novel and it has an impeachment scene in it , so i was going to come over and take a look at this anyway , ' ' ehrlichman said tuesday .
+2 14 14 19 22 ` ` the world wants new faces in a way , ' ' said walden , who beat the michael jackson quincy jones team .
+2 0 0 42 42 <e1> austin said jackson 's success on super tuesday depends on getting out the black vote , attaining close to 10 percent of the white vote and the unknown potential of gop candidate pat robertson , the former tv evangelist , to pull demoratic voters into the republican primaries .
+2 0 0 33 34 <e1> jackson said the test also was watched by astronauts carl meade and george ` ` pinky ' ' nelson , who is scheduled to fly on the discovery when the national aeronautics and space administration resumes shuttle flights this summer .
+2 0 1 24 26 <e1> olivier vanneste , the provincial governor who led the rescue operations , was one of 31 people , including 13 belgians , decorated by queen elizabeth ii for their conduct in the disaster .
+2 4 6 39 39 at the outbreak of world war ii , szeryng , who spoke eight languages , was appointed liaison officer and interpreter for gen. wladislaw sikorski , premier of the polish government in exile and commander of the free polish army .
+2 19 20 24 24 the missile exchange is the first time both belligerents have bombarded each other 's capitals with missiles since the persian gulf war began in september 1980 .
+2 31 31 35 36 ` ` this is a very specific federal mandate that says the federal government has to take certain steps that the private sector doesn 't have to , ' ' said ferguson 's lawyer , roger benson .
+2 18 20 31 33 a meteorologist says it would have made ` ` all the difference in the world ' ' if national weather service forecasters had passed along information about a thunderstorm that downed delta airlines flight 191 .
+2 3 4 14 14 the official iraqi news agency , which previously reported the missile is manufactured in iraq , said the stamp was ` ` intended to be an acknowledgement of the distinguished efforts of iraqi war industries personnel. ' '
+2 0 0 26 26 <e1> craft might become a grand jury witness himself , some senators said , because he attended the meeting at which johnson has testified that he told mecham of the alleged threat .
+2 7 7 12 12 afterward , the royal couple chatted with previn and his wife , heather .
+2 9 11 24 24 a stamp dedication ceremony will be held in the grand opera house in wilmington , del. , where the issuance of a 44 cent u.s. airmail stamp will be marked .
+2 1 2 12 12 the polish born musician , who traveled on a diplomatic passport as mexico 's official cultural ambassador , also was known for his special preference for resurrecting neglected or lost works for the violin .
+2 0 0 33 33 <e1> burnley 's predecessor , elizabeth dole , called for increased testing in all modes of transportation after drugs were implicated in the jan. 4 , 1987 collision of a freight train and an amtrak passenger train .
+2 0 3 6 6 <e1> police chief s. wijesinghe of the ampara district said there were no police casualties .
+2 1 1 20 21 in hebron , photographers were standing outside the home where peretz received first aid when a settler attacked reuter photographer jim hollander as he took pictures of a little girl .
+2 1 1 45 45 a pta memo to all 10 candidates , released in time to catch their attention before the super tuesday primaries in 16 states , reflects a more activist stance on children 's issues by the 6.1 million member association , said arnold fege , the pta 's director of governmental relations .
+2 3 3 33 33 his prospects in oklahoma , where more than 30 banks closed last year , are good , according to stipe , although sen. albert gore jr. of tennessee and rep. richard gephardt of missouri are also strong .
+2 1 1 11 11 in indiana , downed tree limbs interrupted power in parts of indianapolis .
+2 4 6 30 30 started in 1858 by rowland hussey macy , a former nantucket whaler who had failed at several earlier attempts in the retailing business , the first macy store in downtown manhattan sold fancy goods and stationery items .
+2 8 8 21 22 ` ` there 's a growing awareness of califoria wines , particularly among japanese yuppies , ' ' said wine consultant jon fredriskson .
+2 23 23 35 35 ` ` i am sure that if you want to do a study , there are a lot of names out there with aids in it , band aid , cur aid , ' ' berglass said .
+2 20 22 24 25 ` ` the administration does not have the backbone at this time to veto this bill , ' ' complained sen. dan quayle , r ind .
+2 5 5 12 12 the woman shouted angrily during thursday 's hearing about being sent to mayview .
+2 3 3 16 16 he 's on azt now , a drug that helps prolong the lives of people with aids , but does not cure the fatal disease .
+2 15 15 21 21 ` ` there is a route you ought to follow that is biblically prescribed in matthew 18 , ' ' said swindall .
+2 1 1 30 30 outside antarctica , wind and higher temperatures prevent formation of stratospheric clouds , so methane attacks chlorine from cfcs , reducing the amount of chlorine available to destroy ozone , blake said .
+2 4 4 31 33 in a floor speech thursday night , rep. don edwards , chairman of a house judiciary civil rights subcommittee , likened the disclosure to misuse of fbi files by the late sen. joseph mccarthy in the early 1950s .
+2 3 3 11 11 by the time maine held its democratic caucuses last weekend , jackson contended , the working class had become a main force behind his second place finish .
+2 4 4 27 27 the former friends said matthews named several potential victims before settling on ouillette , an overweight high school freshman who had moved to the community south of boston a year earlier .
+2 3 3 29 29 pakistani officials said junejo wanted to discuss whether pakistan should link an accord over a soviet troop withdrawal from afghanistan with the formation of an interim coalition government in kabul .
+2 0 0 26 26 <e1> grace declined to name the reactor , but the constitution quoted other unidentified sources as confirming that it was the now idled five megawatt reactor at tech .
+2 0 0 31 32 <e1> cohen suggested that the requirement could have helped expose the iran contra affair , in which u.s. weapons were sold to iran and some of the profits were diverted to the nicaraguan contra rebels .
+2 2 2 4 5 crocodiles in zambia 's kafue river have devoured five people since the beginning of the year , and villagers have asked the authorities to shoot the reptiles , a local official said today .
+2 0 0 2 2 <e1> dukakis charged gephardt 's retaliatory trade legislation could provoke a global trade war and harm u.s. mexican relations .
+2 66 66 87 87 the committee recommended that enough money be available ` ` to ensure that cannibalization is a rare requirement. ' ' _so many boards and panels are watching every aspect of the shuttle system that individuals might ` ` defer to the anonymity of the process ' ' and not take responsibility for decisions. _tests on the solid rocket booster are performed at the manufacturing plant in utah and there is a risk that damage may result from the long rail trip to the kennedy space center in florida .
+2 1 4 15 15 a cbs new york times survey gave bush a better than 2 1 lead over dole in 14 southern and border states .

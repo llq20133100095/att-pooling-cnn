@@ -1,0 +1,3 @@
+kill 0
+birthplace 1
+other 2
